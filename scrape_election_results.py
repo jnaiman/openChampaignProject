@@ -102,7 +102,13 @@ for p in precentNums:
                 print('On site: '+ w2)
                 
                 # split by several delimiters
-                xs = re.split('\r\n .  ',soup3)
+                # figure out end characters
+                endCharSplit = '\r\n'
+                endChar = '\r\n\r\n'
+                if soup3.find(endCharSplit) == -1:
+                    endCharSplit = '\n'
+                    
+                xs = re.split(endCharSplit,soup3)
 
                 # loop and grab important things
                 istart1 = 100000000
@@ -110,6 +116,8 @@ for p in precentNums:
                 endLoop1 = False
                 inLoop2 = False
                 endLoop2 = False
+                dateCheck = False
+                preCheck = True
                 for i,x in enumerate(xs):
                     # has election date?
                     if x.find('RUN TIME') != -1:
@@ -124,9 +132,13 @@ for p in precentNums:
                         #s = "8 March, 2017"
                         dt = datetime.strptime(d2, '%B %d,%Y')
                         dates.append(dt)
+                        dateCheck = True
 
-                        # next one
-                        precincts.append(int(xs[i+1].split()[-1]))
+                    if dateCheck and preCheck:
+                        if re.search('City of Champaign',x,re.IGNORECASE):
+                            precincts.append(int(x.split()[-1]))
+                            preCheck = False
+                        #pNum = int(xs[i+1].split()[-1])
                     if x.find('REGISTERED VOTERS') != -1:
                         regVoters.append(int(x.split()[-1]))
                     if x.find('BALLOTS CAST - TOTAL') != -1:
@@ -148,23 +160,50 @@ for p in precentNums:
                                 namesOfCandidatesMayor.append([])
                                 ballotsCastMayor.append([])
                                 percentagesCastMayor.append([])
+                            # second loop for results of city council stuffs
+                            if inLoop1 and endLoop1:
+                                inLoop2 = True
+                                namesOfCandidatesCityCouncil.append([])
+                                ballotsCastCityCouncil.append([])
+                                percentagesCastCityCouncil.append([])
+
                         if inLoop1 and not endLoop1: #mayor
                             # look for dots
                             if x.find('. ') != -1:
                                 y = x.split('. ')
                                 name = y[0]
                                 nums = y[-1]
-                                # check if name or total
+                                # check if name or total or votes
                                 if not (re.search('Total',name,re.IGNORECASE) or \
                                         re.search('Votes',name,re.IGNORECASE) ):
-                                    namesOfCandidatesMayor[-1].append(name)
+                                    namesOfCandidatesMayor[-1].append(name.lstrip())
                                     percentagesCastMayor[-1].append(nums.split()[-1])
                                     ballotsCastMayor[-1].append(nums.split()[0])
                             # are we at the end of the loop
                             if x.find('\r\n\r\n') != -1:
                                 endLoop1 = True
-                                sys.exit()
-                                
+                            # for other ones
+                            if i < len(xs)-1:
+                                if xs[i+1].find('Council Member') != -1: # for earlier years
+                                    endLoop1 = True
+                        if inLoop2 and endLoop1 and not endLoop2: # city council
+                            # look for dots
+                            if x.find('. ') != -1:
+                                y = x.split('. ')
+                                name = y[0]
+                                nums = y[-1]
+                                # check if name or total or votes
+                                if not (re.search('Total',name,re.IGNORECASE) or \
+                                        re.search('Votes',name,re.IGNORECASE) ):
+                                    namesOfCandidatesCityCouncil[-1].append(name.lstrip())
+                                    percentagesCastCityCouncil[-1].append(nums.split()[-1])
+                                    ballotsCastCityCouncil[-1].append(nums.split()[0])
+                            # are we at the end of the loop?
+                            if x.find('\r\n\r\n') != -1:
+                                endLoop2 = True
+                            # for earlier years
+                            if i<len(xs)-1:
+                                if len(xs[i+1]) == 0: endLoop2 = True
                                 
 #                                or inLoop:
 #                            # we are in where we wanna be
