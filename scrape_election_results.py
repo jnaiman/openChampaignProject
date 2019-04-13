@@ -55,10 +55,13 @@ import re
 
 #electionResults = { 
 
+icount = 0
 
 # go to individual webpages
 for p in precentNums:
     # construct w
+    #  this is checking to see that there are results for this
+    #  particular election date
     w = 'https://champaigncountyclerk.com/elections/results/precinct?ID=' + p
     request = requests.get(w)
     if request.status_code == 200:
@@ -72,13 +75,15 @@ for p in precentNums:
         soup2 = soup2[1:]
         soup2 = soup2[:-1]
 
-        # grab all links
+        # grab all links for the city of Champaign
         for s2 in soup2:
             w2 = (s2.split('href="')[1]).split('">')[0]
             # whole link
             w2 = 'https://champaigncountyclerk.com/elections/results/' + w2
 
-            # go to this sub website
+            # go to this sub website - this is the actual
+            #  data page
+            #  check it exists too
             request2 = requests.get(w2)
             if request2.status_code == 200:
                 soup3 = bs4.BeautifulSoup(request2.text, 'html.parser')
@@ -101,7 +106,8 @@ for p in precentNums:
 
                 print('On site: '+ w2)
                 
-                # split by several delimiters
+                # split by several delimiters depending on year
+                #   ... because of course
                 # figure out end characters
                 endCharSplit = '\r\n'
                 endChar = '\r\n\r\n'
@@ -109,6 +115,9 @@ for p in precentNums:
                     endCharSplit = '\n'
                     
                 xs = re.split(endCharSplit,soup3)
+
+                # this is now the page for individual election results
+                icount += 1
 
                 # loop and grab important things
                 istart1 = 100000000
@@ -134,26 +143,23 @@ for p in precentNums:
                         dates.append(dt)
                         dateCheck = True
 
+                    # this makes sure the date doesn't get over written
+                    #  when we grab precincts
                     if dateCheck and preCheck:
                         if re.search('City of Champaign',x,re.IGNORECASE):
                             precincts.append(int(x.split()[-1]))
                             preCheck = False
-                        #pNum = int(xs[i+1].split()[-1])
                     if x.find('REGISTERED VOTERS') != -1:
                         regVoters.append(int(x.split()[-1]))
                     if x.find('BALLOTS CAST - TOTAL') != -1:
                         totalBallotsCast.append(int(x.split()[-1]))
                         istart1 = i
+                        # istart1 controls the fact that we only want to
+                        #  start looking for mayors/candidates when we've got the
+                        #  total infos (and not before)
                     if i > istart1: # now into actual votes
-
-#namesOfCandidatesCityCouncil = []
-#namesOfCandidatesMayor = []
-#ballotsCastCityCouncil = []
-#ballotsCastMayor = []
-#percentagesCastCityCouncil = []
-#percentagesCastMayor = []
-
-                        
+                        # look for openings of where mayor or
+                        #  city council is stored
                         if re.search('at large', x, re.IGNORECASE) or re.search('at-large',x,re.IGNORECASE):
                             if not inLoop1:
                                 inLoop1 = True
@@ -163,11 +169,12 @@ for p in precentNums:
                             # second loop for results of city council stuffs
                             if inLoop1 and endLoop1:
                                 inLoop2 = True
-                                namesOfCandidatesCityCouncil.append([])
+                                inLoop1 = False
+                                namesOfCandidatesCityCouncil.append([]) ### HERE: THIS IS GETTING OVER WRITTEN
                                 ballotsCastCityCouncil.append([])
                                 percentagesCastCityCouncil.append([])
 
-                        if inLoop1 and not endLoop1: #mayor
+                        if inLoop1 and (not endLoop1) and (not inLoop2): #mayor
                             # look for dots
                             if x.find('. ') != -1:
                                 y = x.split('. ')
@@ -186,6 +193,11 @@ for p in precentNums:
                             if i < len(xs)-1:
                                 if xs[i+1].find('Council Member') != -1: # for earlier years
                                     endLoop1 = True
+
+                            # look for under votes
+                            if re.search('Under Votes',x,re.IGNORECASE): endLoop1=True
+
+                            #if endLoop1: print('end of loop1')
                         if inLoop2 and endLoop1 and not endLoop2: # city council
                             # look for dots
                             if x.find('. ') != -1:
@@ -205,26 +217,15 @@ for p in precentNums:
                             if i<len(xs)-1:
                                 if len(xs[i+1]) == 0: endLoop2 = True
                                 
-#                                or inLoop:
-#                            # we are in where we wanna be
-#                            if x.find('\r\n\r\n') == -1:
-#                                print(x)
-#                                import sys
-#                                sys.exit()
-#                            else:
-#                                #print(x)
-#                                inLoop = False
+                # out of for
+                #if icount == 1:
+                #    sys.exit()
 
+    #else:
+    #    print('precicnet data website not there')
+    #    # we don't have this precient for this year         
 
-                        
-                        #import sys
-                        #sys.exit()
-                
-                #import sys
-                #sys.exit()
-            else:
-                print('precicnet data website not there')
-                
+                    
 
             
             #import sys
