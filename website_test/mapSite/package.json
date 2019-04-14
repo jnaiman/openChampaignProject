@@ -3,14 +3,15 @@
   "version": "1.0.0",
   "license": "MIT",
   "idyll": {
-    "theme": "github",
-    "layout": "blog",
+    "theme": "default",
+    "layout": "default",
     "css": "styles.css",
     "authorView": false
   },
   "dependencies": {
     "acorn": "^6.1.1",
     "d3": "^4.0.0",
+    "d3-geo": "^1.11.3",
     "idyll": "^3.0.0",
     "idyll-d3-component": "^2.0.0",
     "idyll-vega-lite": "^1.0.2",
