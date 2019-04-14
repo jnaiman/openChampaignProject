@@ -4,7 +4,7 @@ import requests, bs4
 import httplib2
 
 # were are we saving data?
-saveFilejson = '/Users/jillnaiman1/champaignElection/election_results.json'
+saveFilejson = '/Users/jillnaiman1/champaignElection/data/election_results.json'
 
 #-----------------------------------------------------------
 
@@ -151,7 +151,7 @@ for p in precentNums:
                             preCheck = False
                     if x.find('REGISTERED VOTERS') != -1:
                         regVoters.append(int(x.split()[-1]))
-                    if x.find('BALLOTS CAST - TOTAL') != -1:
+                    if re.search('BALLOTS CAST - TOTAL',x,re.IGNORECASE):
                         totalBallotsCast.append(int(x.split()[-1]))
                         istart1 = i
                         # istart1 controls the fact that we only want to
@@ -160,7 +160,8 @@ for p in precentNums:
                     if i > istart1: # now into actual votes
                         # look for openings of where mayor or
                         #  city council is stored
-                        if re.search('at large', x, re.IGNORECASE) or re.search('at-large',x,re.IGNORECASE):
+                        if re.search('at large', x, re.IGNORECASE) or re.search('at-large',x,re.IGNORECASE) \
+                           or re.search('Mayor CITY',x,re.IGNORECASE):
                             if not inLoop1:
                                 inLoop1 = True
                                 namesOfCandidatesMayor.append([])
@@ -190,12 +191,16 @@ for p in precentNums:
                             if x.find('\r\n\r\n') != -1:
                                 endLoop1 = True
                             # for other ones
-                            if i < len(xs)-1:
-                                if xs[i+1].find('Council Member') != -1: # for earlier years
-                                    endLoop1 = True
-
+                            #if i < len(xs)-1:
+                            #    if xs[i+1].find('Council Member') != -1: # for earlier years
+                            #        endLoop1 = True
+                            # for other years, different formats
+                           # if re.search('under votes', x, re.IGNORECASE): endLoop1 = True
+                            
                             # look for under votes
                             if re.search('Under Votes',x,re.IGNORECASE): endLoop1=True
+                            #if w2.find('https://champaigncountyclerk.com/elections/results/2011/docs/apr/PREC0401.HTM') != -1:
+                            #    sys.exit()
 
                             #if endLoop1: print('end of loop1')
                         if inLoop2 and endLoop1 and not endLoop2: # city council
@@ -216,7 +221,12 @@ for p in precentNums:
                             # for earlier years
                             if i<len(xs)-1:
                                 if len(xs[i+1]) == 0: endLoop2 = True
-                                
+                # end of for loop
+                if endLoop1 == False:
+                    # this never got called
+                    print('never called inloop 1')
+                    print(w2)
+                    sys.exit()
     else:
         print('Web site does not exist, or is a PDF') 
 
@@ -243,23 +253,80 @@ if print_file:
     for n in listMayor_u:
         print(n)
 
+    print('----')
+
     for n in listCityCouncil_u:
         print(n)
-    
-import sys
-sys.exit()
+
+
+# lets format!
+import numpy as np
+d2 = np.unique(dates)
+dates = np.array(dates)
+precincts = np.array(precincts)
+regVoters = np.array(regVoters)
+totalBallotsCast = np.array(totalBallotsCast)
+namesOfCandidatesMayor = np.array(namesOfCandidatesMayor)
+namesOfCandidatesCityCouncil = np.array(namesOfCandidatesCityCouncil)
+ballotsCastMayor = np.array(ballotsCastMayor)
+ballotsCastCityCouncil = np.array(ballotsCastCityCouncil)
+percentagesCastMayor = np.array(percentagesCastMayor)
+percentagesCastCityCouncil = np.array(percentagesCastCityCouncil)
+electionOut = []
+for i,d in enumerate(d2):
+    mask = dates == d
+    # precinct
+    ps = precincts[mask]
+    # voters per precinct
+    rVoters = regVoters[mask]
+    # ballots cast per precinct
+    bCast = totalBallotsCast[mask]
+    # grab candidates for mayor
+    m = namesOfCandidatesMayor[mask]
+    bm = ballotsCastMayor[mask]
+    pm = percentagesCastMayor[mask]
+    cc = namesOfCandidatesCityCouncil[mask]
+    bcc = ballotsCastCityCouncil[mask]
+    pcc = percentagesCastCityCouncil[mask]
+
+    # to store precinct results
+    presults = []
+    for j in range(len(ps)):
+        presults.append( {"mayor_election":{"candidates":m[j],
+                                            "ballotsCast":bm[j],
+                                            "percentages":pm[j],
+                                            "party":np.repeat('P',len(m[j])).tolist() # placeholder
+                                            },
+                          "precinctSummary":{"registered_voters":rVoters[j],
+                                             "total_ballots_cast":bCast[j],
+                                             "precinct_number":ps[j]
+                                             },
+                          "city_council_election":{"candidates":cc[j],
+                                                   "ballotsCast":bcc[j],
+                                                   "percentages":pcc[j],
+                                                   "party":np.repeat('P',len(m[j])).tolist() # placeholder
+                                                   }
+                          } # end of this precinct
+                         ) # end of appending
+
+    electionOut.append( {"year":d.year, "precincts":presults} )
+
 
 # output
 # save to json
 import json
 
-v = []
-for i in range(len(names)):
-    v.append( {"name":names[i], "dam":dams[i], "sire":sires[i], "sex":sexes[i],
-               "year":years[i], "countries":countries[i], "siblings":siblings[i] } )
+
+# for weird integers in numpy
+def default(o):
+    if isinstance(o, np.int64): return int(o)  
+    raise TypeError
+
+#json.dumps({'value': numpy.int64(42)}, default=default)
+
 
 # dump to file
 f = open(saveFilejson,'w')
-f.write(json.dumps(v,indent=2))
+f.write(json.dumps(electionOut,indent=2, default=default))
 f.close()
     

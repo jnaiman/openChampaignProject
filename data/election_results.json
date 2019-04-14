@@ -1,0 +1,8537 @@
+[
+  {
+    "year": 2007,
+    "precincts": [
+      {
+        "mayor_election": {
+          "candidates": [
+            "Gerald (Jerry) Schweighart",
+            "WRITE-IN"
+          ],
+          "ballotsCast": [
+            "99",
+            "10"
+          ],
+          "percentages": [
+            "90.83",
+            "9.17"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        },
+        "precinctSummary": {
+          "registered_voters": 1028,
+          "total_ballots_cast": 153,
+          "precinct_number": 1
+        },
+        "city_council_election": {
+          "candidates": [
+            "Deborah Frank Feinen",
+            "Thomas A",
+            "Karen B",
+            "Giraldo Rosales  ",
+            "Patricia A",
+            "Annette B",
+            "WRITE-IN"
+          ],
+          "ballotsCast": [
+            "26",
+            "30",
+            "29",
+            "98",
+            "129",
+            "98",
+            "2"
+          ],
+          "percentages": [
+            "6.31",
+            "7.28",
+            "7.04",
+            "23.79",
+            "31.31",
+            "23.79",
+            ".49"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        }
+      },
+      {
+        "mayor_election": {
+          "candidates": [
+            "Gerald (Jerry) Schweighart",
+            "WRITE-IN"
+          ],
+          "ballotsCast": [
+            "12",
+            "2"
+          ],
+          "percentages": [
+            "85.71",
+            "14.29"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        },
+        "precinctSummary": {
+          "registered_voters": 958,
+          "total_ballots_cast": 21,
+          "precinct_number": 2
+        },
+        "city_council_election": {
+          "candidates": [
+            "Deborah Frank Feinen",
+            "Thomas A",
+            "Karen B",
+            "Giraldo Rosales  ",
+            "Patricia A",
+            "Annette B",
+            "WRITE-IN"
+          ],
+          "ballotsCast": [
+            "5",
+            "2",
+            "4",
+            "16",
+            "16",
+            "15",
+            "0"
+          ],
+          "percentages": [
+            "8.62",
+            "3.45",
+            "6.90",
+            "27.59",
+            "27.59",
+            "25.86",
+            "0"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        }
+      },
+      {
+        "mayor_election": {
+          "candidates": [
+            "Gerald (Jerry) Schweighart",
+            "WRITE-IN"
+          ],
+          "ballotsCast": [
+            "8",
+            "2"
+          ],
+          "percentages": [
+            "80.00",
+            "20.00"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        },
+        "precinctSummary": {
+          "registered_voters": 1442,
+          "total_ballots_cast": 14,
+          "precinct_number": 3
+        },
+        "city_council_election": {
+          "candidates": [
+            "Deborah Frank Feinen",
+            "Thomas A",
+            "Karen B",
+            "Giraldo Rosales  ",
+            "Patricia A",
+            "Annette B",
+            "WRITE-IN"
+          ],
+          "ballotsCast": [
+            "3",
+            "4",
+            "2",
+            "10",
+            "11",
+            "9",
+            "0"
+          ],
+          "percentages": [
+            "7.69",
+            "10.26",
+            "5.13",
+            "25.64",
+            "28.21",
+            "23.08",
+            "0"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        }
+      },
+      {
+        "mayor_election": {
+          "candidates": [
+            "Gerald (Jerry) Schweighart",
+            "WRITE-IN"
+          ],
+          "ballotsCast": [
+            "12",
+            "1"
+          ],
+          "percentages": [
+            "92.31",
+            "7.69"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        },
+        "precinctSummary": {
+          "registered_voters": 1753,
+          "total_ballots_cast": 16,
+          "precinct_number": 4
+        },
+        "city_council_election": {
+          "candidates": [
+            "Deborah Frank Feinen",
+            "Thomas A",
+            "Karen B",
+            "Giraldo Rosales  ",
+            "Patricia A",
+            "Annette B",
+            "WRITE-IN"
+          ],
+          "ballotsCast": [
+            "5",
+            "6",
+            "5",
+            "10",
+            "10",
+            "9",
+            "0"
+          ],
+          "percentages": [
+            "11.11",
+            "13.33",
+            "11.11",
+            "22.22",
+            "22.22",
+            "20.00",
+            "0"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        }
+      },
+      {
+        "mayor_election": {
+          "candidates": [
+            "Gerald (Jerry) Schweighart",
+            "WRITE-IN"
+          ],
+          "ballotsCast": [
+            "5",
+            "0"
+          ],
+          "percentages": [
+            "100.00",
+            "0"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        },
+        "precinctSummary": {
+          "registered_voters": 2386,
+          "total_ballots_cast": 10,
+          "precinct_number": 5
+        },
+        "city_council_election": {
+          "candidates": [
+            "Deborah Frank Feinen",
+            "Thomas A",
+            "Karen B",
+            "Giraldo Rosales  ",
+            "Patricia A",
+            "Annette B",
+            "WRITE-IN"
+          ],
+          "ballotsCast": [
+            "2",
+            "2",
+            "2",
+            "9",
+            "7",
+            "6",
+            "0"
+          ],
+          "percentages": [
+            "7.14",
+            "7.14",
+            "7.14",
+            "32.14",
+            "25.00",
+            "21.43",
+            "0"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        }
+      },
+      {
+        "mayor_election": {
+          "candidates": [
+            "Gerald (Jerry) Schweighart",
+            "WRITE-IN"
+          ],
+          "ballotsCast": [
+            "108",
+            "7"
+          ],
+          "percentages": [
+            "93.91",
+            "6.09"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        },
+        "precinctSummary": {
+          "registered_voters": 1420,
+          "total_ballots_cast": 147,
+          "precinct_number": 6
+        },
+        "city_council_election": {
+          "candidates": [
+            "Deborah Frank Feinen",
+            "Thomas A",
+            "Karen B",
+            "Giraldo Rosales  ",
+            "Patricia A",
+            "Annette B",
+            "WRITE-IN"
+          ],
+          "ballotsCast": [
+            "81",
+            "57",
+            "75",
+            "50",
+            "67",
+            "63",
+            "2"
+          ],
+          "percentages": [
+            "20.51",
+            "14.43",
+            "18.99",
+            "12.66",
+            "16.96",
+            "15.95",
+            ".51"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        }
+      },
+      {
+        "mayor_election": {
+          "candidates": [
+            "Gerald (Jerry) Schweighart",
+            "WRITE-IN"
+          ],
+          "ballotsCast": [
+            "10",
+            "0"
+          ],
+          "percentages": [
+            "100.00",
+            "0"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        },
+        "precinctSummary": {
+          "registered_voters": 784,
+          "total_ballots_cast": 18,
+          "precinct_number": 7
+        },
+        "city_council_election": {
+          "candidates": [
+            "Deborah Frank Feinen",
+            "Thomas A",
+            "Karen B",
+            "Giraldo Rosales  ",
+            "Patricia A",
+            "Annette B",
+            "WRITE-IN"
+          ],
+          "ballotsCast": [
+            "3",
+            "4",
+            "4",
+            "9",
+            "15",
+            "9",
+            "0"
+          ],
+          "percentages": [
+            "6.82",
+            "9.09",
+            "9.09",
+            "20.45",
+            "34.09",
+            "20.45",
+            "0"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        }
+      },
+      {
+        "mayor_election": {
+          "candidates": [
+            "Gerald (Jerry) Schweighart",
+            "WRITE-IN"
+          ],
+          "ballotsCast": [
+            "11",
+            "3"
+          ],
+          "percentages": [
+            "78.57",
+            "21.43"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        },
+        "precinctSummary": {
+          "registered_voters": 1215,
+          "total_ballots_cast": 16,
+          "precinct_number": 8
+        },
+        "city_council_election": {
+          "candidates": [
+            "Deborah Frank Feinen",
+            "Thomas A",
+            "Karen B",
+            "Giraldo Rosales  ",
+            "Patricia A",
+            "Annette B",
+            "WRITE-IN"
+          ],
+          "ballotsCast": [
+            "2",
+            "3",
+            "2",
+            "13",
+            "12",
+            "11",
+            "1"
+          ],
+          "percentages": [
+            "4.55",
+            "6.82",
+            "4.55",
+            "29.55",
+            "27.27",
+            "25.00",
+            "2.27"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        }
+      },
+      {
+        "mayor_election": {
+          "candidates": [
+            "Gerald (Jerry) Schweighart",
+            "WRITE-IN"
+          ],
+          "ballotsCast": [
+            "80",
+            "5"
+          ],
+          "percentages": [
+            "94.12",
+            "5.88"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        },
+        "precinctSummary": {
+          "registered_voters": 1392,
+          "total_ballots_cast": 105,
+          "precinct_number": 9
+        },
+        "city_council_election": {
+          "candidates": [
+            "Deborah Frank Feinen",
+            "Thomas A",
+            "Karen B",
+            "Giraldo Rosales  ",
+            "Patricia A",
+            "Annette B",
+            "WRITE-IN"
+          ],
+          "ballotsCast": [
+            "44",
+            "35",
+            "35",
+            "48",
+            "63",
+            "41",
+            "1"
+          ],
+          "percentages": [
+            "16.48",
+            "13.11",
+            "13.11",
+            "17.98",
+            "23.60",
+            "15.36",
+            ".37"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        }
+      },
+      {
+        "mayor_election": {
+          "candidates": [
+            "Gerald (Jerry) Schweighart",
+            "WRITE-IN"
+          ],
+          "ballotsCast": [
+            "104",
+            "7"
+          ],
+          "percentages": [
+            "93.69",
+            "6.31"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        },
+        "precinctSummary": {
+          "registered_voters": 1128,
+          "total_ballots_cast": 136,
+          "precinct_number": 10
+        },
+        "city_council_election": {
+          "candidates": [
+            "Deborah Frank Feinen",
+            "Thomas A",
+            "Karen B",
+            "Giraldo Rosales  ",
+            "Patricia A",
+            "Annette B",
+            "WRITE-IN"
+          ],
+          "ballotsCast": [
+            "64",
+            "52",
+            "57",
+            "63",
+            "71",
+            "62",
+            "1"
+          ],
+          "percentages": [
+            "17.30",
+            "14.05",
+            "15.41",
+            "17.03",
+            "19.19",
+            "16.76",
+            ".27"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        }
+      },
+      {
+        "mayor_election": {
+          "candidates": [
+            "Gerald (Jerry) Schweighart",
+            "WRITE-IN"
+          ],
+          "ballotsCast": [
+            "141",
+            "19"
+          ],
+          "percentages": [
+            "88.13",
+            "11.88"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        },
+        "precinctSummary": {
+          "registered_voters": 960,
+          "total_ballots_cast": 231,
+          "precinct_number": 11
+        },
+        "city_council_election": {
+          "candidates": [
+            "Deborah Frank Feinen",
+            "Thomas A",
+            "Karen B",
+            "Giraldo Rosales  ",
+            "Patricia A",
+            "Annette B",
+            "WRITE-IN"
+          ],
+          "ballotsCast": [
+            "100",
+            "115",
+            "84",
+            "114",
+            "102",
+            "94",
+            "6"
+          ],
+          "percentages": [
+            "16.26",
+            "18.70",
+            "13.66",
+            "18.54",
+            "16.59",
+            "15.28",
+            ".98"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        }
+      },
+      {
+        "mayor_election": {
+          "candidates": [
+            "Gerald (Jerry) Schweighart",
+            "WRITE-IN"
+          ],
+          "ballotsCast": [
+            "123",
+            "11"
+          ],
+          "percentages": [
+            "91.79",
+            "8.21"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        },
+        "precinctSummary": {
+          "registered_voters": 935,
+          "total_ballots_cast": 184,
+          "precinct_number": 12
+        },
+        "city_council_election": {
+          "candidates": [
+            "Deborah Frank Feinen",
+            "Thomas A",
+            "Karen B",
+            "Giraldo Rosales  ",
+            "Patricia A",
+            "Annette B",
+            "WRITE-IN"
+          ],
+          "ballotsCast": [
+            "82",
+            "98",
+            "67",
+            "89",
+            "95",
+            "74",
+            "1"
+          ],
+          "percentages": [
+            "16.21",
+            "19.37",
+            "13.24",
+            "17.59",
+            "18.77",
+            "14.62",
+            ".20"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        }
+      },
+      {
+        "mayor_election": {
+          "candidates": [
+            "Gerald (Jerry) Schweighart",
+            "WRITE-IN"
+          ],
+          "ballotsCast": [
+            "221",
+            "13"
+          ],
+          "percentages": [
+            "94.44",
+            "5.56"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        },
+        "precinctSummary": {
+          "registered_voters": 1278,
+          "total_ballots_cast": 307,
+          "precinct_number": 13
+        },
+        "city_council_election": {
+          "candidates": [
+            "Deborah Frank Feinen",
+            "Thomas A",
+            "Karen B",
+            "Giraldo Rosales  ",
+            "Patricia A",
+            "Annette B",
+            "WRITE-IN"
+          ],
+          "ballotsCast": [
+            "147",
+            "172",
+            "137",
+            "136",
+            "141",
+            "124",
+            "2"
+          ],
+          "percentages": [
+            "17.11",
+            "20.02",
+            "15.95",
+            "15.83",
+            "16.41",
+            "14.44",
+            ".23"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        }
+      },
+      {
+        "mayor_election": {
+          "candidates": [
+            "Gerald (Jerry) Schweighart",
+            "WRITE-IN"
+          ],
+          "ballotsCast": [
+            "74",
+            "7"
+          ],
+          "percentages": [
+            "91.36",
+            "8.64"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        },
+        "precinctSummary": {
+          "registered_voters": 653,
+          "total_ballots_cast": 114,
+          "precinct_number": 14
+        },
+        "city_council_election": {
+          "candidates": [
+            "Deborah Frank Feinen",
+            "Thomas A",
+            "Karen B",
+            "Giraldo Rosales  ",
+            "Patricia A",
+            "Annette B",
+            "WRITE-IN"
+          ],
+          "ballotsCast": [
+            "52",
+            "56",
+            "47",
+            "59",
+            "47",
+            "51",
+            "0"
+          ],
+          "percentages": [
+            "16.67",
+            "17.95",
+            "15.06",
+            "18.91",
+            "15.06",
+            "16.35",
+            "0"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        }
+      },
+      {
+        "mayor_election": {
+          "candidates": [
+            "Gerald (Jerry) Schweighart",
+            "WRITE-IN"
+          ],
+          "ballotsCast": [
+            "149",
+            "8"
+          ],
+          "percentages": [
+            "94.90",
+            "5.10"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        },
+        "precinctSummary": {
+          "registered_voters": 900,
+          "total_ballots_cast": 202,
+          "precinct_number": 15
+        },
+        "city_council_election": {
+          "candidates": [
+            "Deborah Frank Feinen",
+            "Thomas A",
+            "Karen B",
+            "Giraldo Rosales  ",
+            "Patricia A",
+            "Annette B",
+            "WRITE-IN"
+          ],
+          "ballotsCast": [
+            "111",
+            "127",
+            "94",
+            "76",
+            "67",
+            "75",
+            "1"
+          ],
+          "percentages": [
+            "20.15",
+            "23.05",
+            "17.06",
+            "13.79",
+            "12.16",
+            "13.61",
+            ".18"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        }
+      },
+      {
+        "mayor_election": {
+          "candidates": [
+            "Gerald (Jerry) Schweighart",
+            "WRITE-IN"
+          ],
+          "ballotsCast": [
+            "170",
+            "9"
+          ],
+          "percentages": [
+            "94.97",
+            "5.03"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        },
+        "precinctSummary": {
+          "registered_voters": 682,
+          "total_ballots_cast": 220,
+          "precinct_number": 16
+        },
+        "city_council_election": {
+          "candidates": [
+            "Deborah Frank Feinen",
+            "Thomas A",
+            "Karen B",
+            "Giraldo Rosales  ",
+            "Patricia A",
+            "Annette B",
+            "WRITE-IN"
+          ],
+          "ballotsCast": [
+            "153",
+            "148",
+            "141",
+            "61",
+            "61",
+            "41",
+            "1"
+          ],
+          "percentages": [
+            "25.25",
+            "24.42",
+            "23.27",
+            "10.07",
+            "10.07",
+            "6.77",
+            ".17"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        }
+      },
+      {
+        "mayor_election": {
+          "candidates": [
+            "Gerald (Jerry) Schweighart",
+            "WRITE-IN"
+          ],
+          "ballotsCast": [
+            "162",
+            "2"
+          ],
+          "percentages": [
+            "98.78",
+            "1.22"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        },
+        "precinctSummary": {
+          "registered_voters": 1141,
+          "total_ballots_cast": 190,
+          "precinct_number": 17
+        },
+        "city_council_election": {
+          "candidates": [
+            "Deborah Frank Feinen",
+            "Thomas A",
+            "Karen B",
+            "Giraldo Rosales  ",
+            "Patricia A",
+            "Annette B",
+            "WRITE-IN"
+          ],
+          "ballotsCast": [
+            "115",
+            "109",
+            "100",
+            "65",
+            "82",
+            "52",
+            "1"
+          ],
+          "percentages": [
+            "21.95",
+            "20.80",
+            "19.08",
+            "12.40",
+            "15.65",
+            "9.92",
+            ".19"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        }
+      },
+      {
+        "mayor_election": {
+          "candidates": [
+            "Gerald (Jerry) Schweighart",
+            "WRITE-IN"
+          ],
+          "ballotsCast": [
+            "183",
+            "8"
+          ],
+          "percentages": [
+            "95.81",
+            "4.19"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        },
+        "precinctSummary": {
+          "registered_voters": 1135,
+          "total_ballots_cast": 209,
+          "precinct_number": 18
+        },
+        "city_council_election": {
+          "candidates": [
+            "Deborah Frank Feinen",
+            "Thomas A",
+            "Karen B",
+            "Giraldo Rosales  ",
+            "Patricia A",
+            "Annette B",
+            "WRITE-IN"
+          ],
+          "ballotsCast": [
+            "133",
+            "136",
+            "117",
+            "61",
+            "62",
+            "61",
+            "1"
+          ],
+          "percentages": [
+            "23.29",
+            "23.82",
+            "20.49",
+            "10.68",
+            "10.86",
+            "10.68",
+            ".18"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        }
+      },
+      {
+        "mayor_election": {
+          "candidates": [
+            "Gerald (Jerry) Schweighart",
+            "WRITE-IN"
+          ],
+          "ballotsCast": [
+            "177",
+            "8"
+          ],
+          "percentages": [
+            "95.68",
+            "4.32"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        },
+        "precinctSummary": {
+          "registered_voters": 924,
+          "total_ballots_cast": 254,
+          "precinct_number": 19
+        },
+        "city_council_election": {
+          "candidates": [
+            "Deborah Frank Feinen",
+            "Thomas A",
+            "Karen B",
+            "Giraldo Rosales  ",
+            "Patricia A",
+            "Annette B",
+            "WRITE-IN"
+          ],
+          "ballotsCast": [
+            "116",
+            "165",
+            "101",
+            "103",
+            "104",
+            "79",
+            "4"
+          ],
+          "percentages": [
+            "17.26",
+            "24.55",
+            "15.03",
+            "15.33",
+            "15.48",
+            "11.76",
+            ".60"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        }
+      },
+      {
+        "mayor_election": {
+          "candidates": [
+            "Gerald (Jerry) Schweighart",
+            "WRITE-IN"
+          ],
+          "ballotsCast": [
+            "270",
+            "13"
+          ],
+          "percentages": [
+            "95.41",
+            "4.59"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        },
+        "precinctSummary": {
+          "registered_voters": 954,
+          "total_ballots_cast": 377,
+          "precinct_number": 20
+        },
+        "city_council_election": {
+          "candidates": [
+            "Deborah Frank Feinen",
+            "Thomas A",
+            "Karen B",
+            "Giraldo Rosales  ",
+            "Patricia A",
+            "Annette B",
+            "WRITE-IN"
+          ],
+          "ballotsCast": [
+            "209",
+            "258",
+            "172",
+            "147",
+            "132",
+            "117",
+            "1"
+          ],
+          "percentages": [
+            "20.17",
+            "24.90",
+            "16.60",
+            "14.19",
+            "12.74",
+            "11.29",
+            ".10"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        }
+      },
+      {
+        "mayor_election": {
+          "candidates": [
+            "Gerald (Jerry) Schweighart",
+            "WRITE-IN"
+          ],
+          "ballotsCast": [
+            "166",
+            "12"
+          ],
+          "percentages": [
+            "93.26",
+            "6.74"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        },
+        "precinctSummary": {
+          "registered_voters": 594,
+          "total_ballots_cast": 236,
+          "precinct_number": 21
+        },
+        "city_council_election": {
+          "candidates": [
+            "Deborah Frank Feinen",
+            "Thomas A",
+            "Karen B",
+            "Giraldo Rosales  ",
+            "Patricia A",
+            "Annette B",
+            "WRITE-IN"
+          ],
+          "ballotsCast": [
+            "147",
+            "156",
+            "122",
+            "80",
+            "70",
+            "57",
+            "0"
+          ],
+          "percentages": [
+            "23.26",
+            "24.68",
+            "19.30",
+            "12.66",
+            "11.08",
+            "9.02",
+            "0"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        }
+      },
+      {
+        "mayor_election": {
+          "candidates": [
+            "Gerald (Jerry) Schweighart",
+            "WRITE-IN"
+          ],
+          "ballotsCast": [
+            "142",
+            "5"
+          ],
+          "percentages": [
+            "96.60",
+            "3.40"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        },
+        "precinctSummary": {
+          "registered_voters": 444,
+          "total_ballots_cast": 175,
+          "precinct_number": 22
+        },
+        "city_council_election": {
+          "candidates": [
+            "Deborah Frank Feinen",
+            "Thomas A",
+            "Karen B",
+            "Giraldo Rosales  ",
+            "Patricia A",
+            "Annette B",
+            "WRITE-IN"
+          ],
+          "ballotsCast": [
+            "130",
+            "124",
+            "116",
+            "39",
+            "32",
+            "30",
+            "1"
+          ],
+          "percentages": [
+            "27.54",
+            "26.27",
+            "24.58",
+            "8.26",
+            "6.78",
+            "6.36",
+            ".21"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        }
+      },
+      {
+        "mayor_election": {
+          "candidates": [
+            "Gerald (Jerry) Schweighart",
+            "WRITE-IN"
+          ],
+          "ballotsCast": [
+            "144",
+            "6"
+          ],
+          "percentages": [
+            "96.00",
+            "4.00"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        },
+        "precinctSummary": {
+          "registered_voters": 523,
+          "total_ballots_cast": 190,
+          "precinct_number": 23
+        },
+        "city_council_election": {
+          "candidates": [
+            "Deborah Frank Feinen",
+            "Thomas A",
+            "Karen B",
+            "Giraldo Rosales  ",
+            "Patricia A",
+            "Annette B",
+            "WRITE-IN"
+          ],
+          "ballotsCast": [
+            "107",
+            "127",
+            "91",
+            "59",
+            "57",
+            "57",
+            "0"
+          ],
+          "percentages": [
+            "21.49",
+            "25.50",
+            "18.27",
+            "11.85",
+            "11.45",
+            "11.45",
+            "0"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        }
+      },
+      {
+        "mayor_election": {
+          "candidates": [
+            "Gerald (Jerry) Schweighart",
+            "WRITE-IN"
+          ],
+          "ballotsCast": [
+            "423",
+            "5"
+          ],
+          "percentages": [
+            "98.83",
+            "1.17"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        },
+        "precinctSummary": {
+          "registered_voters": 1605,
+          "total_ballots_cast": 530,
+          "precinct_number": 24
+        },
+        "city_council_election": {
+          "candidates": [
+            "Deborah Frank Feinen",
+            "Thomas A",
+            "Karen B",
+            "Giraldo Rosales  ",
+            "Patricia A",
+            "Annette B",
+            "WRITE-IN"
+          ],
+          "ballotsCast": [
+            "309",
+            "398",
+            "275",
+            "164",
+            "167",
+            "130",
+            "0"
+          ],
+          "percentages": [
+            "21.41",
+            "27.58",
+            "19.06",
+            "11.37",
+            "11.57",
+            "9.01",
+            "0"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        }
+      },
+      {
+        "mayor_election": {
+          "candidates": [
+            "Gerald (Jerry) Schweighart",
+            "WRITE-IN"
+          ],
+          "ballotsCast": [
+            "151",
+            "5"
+          ],
+          "percentages": [
+            "96.79",
+            "3.21"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        },
+        "precinctSummary": {
+          "registered_voters": 701,
+          "total_ballots_cast": 193,
+          "precinct_number": 25
+        },
+        "city_council_election": {
+          "candidates": [
+            "Deborah Frank Feinen",
+            "Thomas A",
+            "Karen B",
+            "Giraldo Rosales  ",
+            "Patricia A",
+            "Annette B",
+            "WRITE-IN"
+          ],
+          "ballotsCast": [
+            "126",
+            "119",
+            "108",
+            "55",
+            "49",
+            "43",
+            "2"
+          ],
+          "percentages": [
+            "25.10",
+            "23.71",
+            "21.51",
+            "10.96",
+            "9.76",
+            "8.57",
+            ".40"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        }
+      },
+      {
+        "mayor_election": {
+          "candidates": [
+            "Gerald (Jerry) Schweighart",
+            "WRITE-IN"
+          ],
+          "ballotsCast": [
+            "221",
+            "13"
+          ],
+          "percentages": [
+            "94.44",
+            "5.56"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        },
+        "precinctSummary": {
+          "registered_voters": 1187,
+          "total_ballots_cast": 301,
+          "precinct_number": 26
+        },
+        "city_council_election": {
+          "candidates": [
+            "Deborah Frank Feinen",
+            "Thomas A",
+            "Karen B",
+            "Giraldo Rosales  ",
+            "Patricia A",
+            "Annette B",
+            "WRITE-IN"
+          ],
+          "ballotsCast": [
+            "173",
+            "193",
+            "148",
+            "110",
+            "116",
+            "98",
+            "0"
+          ],
+          "percentages": [
+            "20.64",
+            "23.03",
+            "17.66",
+            "13.13",
+            "13.84",
+            "11.69",
+            "0"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        }
+      },
+      {
+        "mayor_election": {
+          "candidates": [
+            "Gerald (Jerry) Schweighart",
+            "WRITE-IN"
+          ],
+          "ballotsCast": [
+            "181",
+            "1"
+          ],
+          "percentages": [
+            "99.45",
+            ".55"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        },
+        "precinctSummary": {
+          "registered_voters": 619,
+          "total_ballots_cast": 226,
+          "precinct_number": 27
+        },
+        "city_council_election": {
+          "candidates": [
+            "Deborah Frank Feinen",
+            "Thomas A",
+            "Karen B",
+            "Giraldo Rosales  ",
+            "Patricia A",
+            "Annette B",
+            "WRITE-IN"
+          ],
+          "ballotsCast": [
+            "159",
+            "159",
+            "132",
+            "57",
+            "58",
+            "48",
+            "0"
+          ],
+          "percentages": [
+            "25.94",
+            "25.94",
+            "21.53",
+            "9.30",
+            "9.46",
+            "7.83",
+            "0"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        }
+      },
+      {
+        "mayor_election": {
+          "candidates": [
+            "Gerald (Jerry) Schweighart",
+            "WRITE-IN"
+          ],
+          "ballotsCast": [
+            "106",
+            "2"
+          ],
+          "percentages": [
+            "98.15",
+            "1.85"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        },
+        "precinctSummary": {
+          "registered_voters": 454,
+          "total_ballots_cast": 136,
+          "precinct_number": 28
+        },
+        "city_council_election": {
+          "candidates": [
+            "Deborah Frank Feinen",
+            "Thomas A",
+            "Karen B",
+            "Giraldo Rosales  ",
+            "Patricia A",
+            "Annette B",
+            "WRITE-IN"
+          ],
+          "ballotsCast": [
+            "77",
+            "81",
+            "65",
+            "47",
+            "55",
+            "36",
+            "2"
+          ],
+          "percentages": [
+            "21.21",
+            "22.31",
+            "17.91",
+            "12.95",
+            "15.15",
+            "9.92",
+            ".55"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        }
+      },
+      {
+        "mayor_election": {
+          "candidates": [
+            "Gerald (Jerry) Schweighart",
+            "WRITE-IN"
+          ],
+          "ballotsCast": [
+            "149",
+            "6"
+          ],
+          "percentages": [
+            "96.13",
+            "3.87"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        },
+        "precinctSummary": {
+          "registered_voters": 767,
+          "total_ballots_cast": 186,
+          "precinct_number": 29
+        },
+        "city_council_election": {
+          "candidates": [
+            "Deborah Frank Feinen",
+            "Thomas A",
+            "Karen B",
+            "Giraldo Rosales  ",
+            "Patricia A",
+            "Annette B",
+            "WRITE-IN"
+          ],
+          "ballotsCast": [
+            "123",
+            "116",
+            "106",
+            "58",
+            "50",
+            "53",
+            "0"
+          ],
+          "percentages": [
+            "24.31",
+            "22.92",
+            "20.95",
+            "11.46",
+            "9.88",
+            "10.47",
+            "0"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        }
+      },
+      {
+        "mayor_election": {
+          "candidates": [
+            "Gerald (Jerry) Schweighart",
+            "WRITE-IN"
+          ],
+          "ballotsCast": [
+            "80",
+            "0"
+          ],
+          "percentages": [
+            "100.00",
+            "0"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        },
+        "precinctSummary": {
+          "registered_voters": 1131,
+          "total_ballots_cast": 93,
+          "precinct_number": 30
+        },
+        "city_council_election": {
+          "candidates": [
+            "Deborah Frank Feinen",
+            "Thomas A",
+            "Karen B",
+            "Giraldo Rosales  ",
+            "Patricia A",
+            "Annette B",
+            "WRITE-IN"
+          ],
+          "ballotsCast": [
+            "45",
+            "50",
+            "50",
+            "36",
+            "40",
+            "35",
+            "0"
+          ],
+          "percentages": [
+            "17.58",
+            "19.53",
+            "19.53",
+            "14.06",
+            "15.63",
+            "13.67",
+            "0"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        }
+      },
+      {
+        "mayor_election": {
+          "candidates": [
+            "Gerald (Jerry) Schweighart",
+            "WRITE-IN"
+          ],
+          "ballotsCast": [
+            "122",
+            "1"
+          ],
+          "percentages": [
+            "99.19",
+            ".81"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        },
+        "precinctSummary": {
+          "registered_voters": 866,
+          "total_ballots_cast": 152,
+          "precinct_number": 31
+        },
+        "city_council_election": {
+          "candidates": [
+            "Deborah Frank Feinen",
+            "Thomas A",
+            "Karen B",
+            "Giraldo Rosales  ",
+            "Patricia A",
+            "Annette B",
+            "WRITE-IN"
+          ],
+          "ballotsCast": [
+            "92",
+            "85",
+            "82",
+            "47",
+            "57",
+            "47",
+            "0"
+          ],
+          "percentages": [
+            "22.44",
+            "20.73",
+            "20.00",
+            "11.46",
+            "13.90",
+            "11.46",
+            "0"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        }
+      },
+      {
+        "mayor_election": {
+          "candidates": [
+            "Gerald (Jerry) Schweighart",
+            "WRITE-IN"
+          ],
+          "ballotsCast": [
+            "294",
+            "8"
+          ],
+          "percentages": [
+            "97.35",
+            "2.65"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        },
+        "precinctSummary": {
+          "registered_voters": 1132,
+          "total_ballots_cast": 358,
+          "precinct_number": 32
+        },
+        "city_council_election": {
+          "candidates": [
+            "Deborah Frank Feinen",
+            "Thomas A",
+            "Karen B",
+            "Giraldo Rosales  ",
+            "Patricia A",
+            "Annette B",
+            "WRITE-IN"
+          ],
+          "ballotsCast": [
+            "240",
+            "246",
+            "217",
+            "90",
+            "93",
+            "94",
+            "2"
+          ],
+          "percentages": [
+            "24.44",
+            "25.05",
+            "22.10",
+            "9.16",
+            "9.47",
+            "9.57",
+            ".20"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        }
+      },
+      {
+        "mayor_election": {
+          "candidates": [
+            "Gerald (Jerry) Schweighart",
+            "WRITE-IN"
+          ],
+          "ballotsCast": [
+            "241",
+            "5"
+          ],
+          "percentages": [
+            "97.97",
+            "2.03"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        },
+        "precinctSummary": {
+          "registered_voters": 1075,
+          "total_ballots_cast": 285,
+          "precinct_number": 33
+        },
+        "city_council_election": {
+          "candidates": [
+            "Deborah Frank Feinen",
+            "Thomas A",
+            "Karen B",
+            "Giraldo Rosales  ",
+            "Patricia A",
+            "Annette B",
+            "WRITE-IN"
+          ],
+          "ballotsCast": [
+            "175",
+            "200",
+            "166",
+            "77",
+            "97",
+            "62",
+            "0"
+          ],
+          "percentages": [
+            "22.52",
+            "25.74",
+            "21.36",
+            "9.91",
+            "12.48",
+            "7.98",
+            "0"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        }
+      },
+      {
+        "mayor_election": {
+          "candidates": [
+            "Gerald (Jerry) Schweighart",
+            "WRITE-IN"
+          ],
+          "ballotsCast": [
+            "195",
+            "5"
+          ],
+          "percentages": [
+            "97.50",
+            "2.50"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        },
+        "precinctSummary": {
+          "registered_voters": 1416,
+          "total_ballots_cast": 235,
+          "precinct_number": 34
+        },
+        "city_council_election": {
+          "candidates": [
+            "Deborah Frank Feinen",
+            "Thomas A",
+            "Karen B",
+            "Giraldo Rosales  ",
+            "Patricia A",
+            "Annette B",
+            "WRITE-IN"
+          ],
+          "ballotsCast": [
+            "152",
+            "163",
+            "126",
+            "58",
+            "83",
+            "56",
+            "2"
+          ],
+          "percentages": [
+            "23.75",
+            "25.47",
+            "19.69",
+            "9.06",
+            "12.97",
+            "8.75",
+            ".31"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        }
+      },
+      {
+        "mayor_election": {
+          "candidates": [
+            "Gerald (Jerry) Schweighart",
+            "WRITE-IN"
+          ],
+          "ballotsCast": [
+            "236",
+            "8"
+          ],
+          "percentages": [
+            "96.72",
+            "3.28"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        },
+        "precinctSummary": {
+          "registered_voters": 1447,
+          "total_ballots_cast": 288,
+          "precinct_number": 35
+        },
+        "city_council_election": {
+          "candidates": [
+            "Deborah Frank Feinen",
+            "Thomas A",
+            "Karen B",
+            "Giraldo Rosales  ",
+            "Patricia A",
+            "Annette B",
+            "WRITE-IN"
+          ],
+          "ballotsCast": [
+            "163",
+            "170",
+            "148",
+            "86",
+            "115",
+            "95",
+            "5"
+          ],
+          "percentages": [
+            "20.84",
+            "21.74",
+            "18.93",
+            "11.00",
+            "14.71",
+            "12.15",
+            ".64"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        }
+      },
+      {
+        "mayor_election": {
+          "candidates": [
+            "Gerald (Jerry) Schweighart",
+            "WRITE-IN"
+          ],
+          "ballotsCast": [
+            "184",
+            "9"
+          ],
+          "percentages": [
+            "95.34",
+            "4.66"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        },
+        "precinctSummary": {
+          "registered_voters": 1009,
+          "total_ballots_cast": 228,
+          "precinct_number": 36
+        },
+        "city_council_election": {
+          "candidates": [
+            "Deborah Frank Feinen",
+            "Thomas A",
+            "Karen B",
+            "Giraldo Rosales  ",
+            "Patricia A",
+            "Annette B",
+            "WRITE-IN"
+          ],
+          "ballotsCast": [
+            "146",
+            "155",
+            "138",
+            "65",
+            "60",
+            "55",
+            "1"
+          ],
+          "percentages": [
+            "23.55",
+            "25.00",
+            "22.26",
+            "10.48",
+            "9.68",
+            "8.87",
+            ".16"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        }
+      },
+      {
+        "mayor_election": {
+          "candidates": [
+            "Gerald (Jerry) Schweighart",
+            "WRITE-IN"
+          ],
+          "ballotsCast": [
+            "249",
+            "6"
+          ],
+          "percentages": [
+            "97.65",
+            "2.35"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        },
+        "precinctSummary": {
+          "registered_voters": 1625,
+          "total_ballots_cast": 296,
+          "precinct_number": 37
+        },
+        "city_council_election": {
+          "candidates": [
+            "Deborah Frank Feinen",
+            "Thomas A",
+            "Karen B",
+            "Giraldo Rosales  ",
+            "Patricia A",
+            "Annette B",
+            "WRITE-IN"
+          ],
+          "ballotsCast": [
+            "169",
+            "189",
+            "144",
+            "101",
+            "109",
+            "82",
+            "1"
+          ],
+          "percentages": [
+            "21.26",
+            "23.77",
+            "18.11",
+            "12.70",
+            "13.71",
+            "10.31",
+            ".13"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        }
+      },
+      {
+        "mayor_election": {
+          "candidates": [
+            "Gerald (Jerry) Schweighart",
+            "WRITE-IN"
+          ],
+          "ballotsCast": [
+            "375",
+            "3"
+          ],
+          "percentages": [
+            "99.21",
+            ".79"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        },
+        "precinctSummary": {
+          "registered_voters": 1721,
+          "total_ballots_cast": 442,
+          "precinct_number": 38
+        },
+        "city_council_election": {
+          "candidates": [
+            "Deborah Frank Feinen",
+            "Thomas A",
+            "Karen B",
+            "Giraldo Rosales  ",
+            "Patricia A",
+            "Annette B",
+            "WRITE-IN"
+          ],
+          "ballotsCast": [
+            "290",
+            "352",
+            "227",
+            "145",
+            "111",
+            "94",
+            "0"
+          ],
+          "percentages": [
+            "23.79",
+            "28.88",
+            "18.62",
+            "11.89",
+            "9.11",
+            "7.71",
+            "0"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "year": 2011,
+    "precincts": [
+      {
+        "mayor_election": {
+          "candidates": [
+            "Gerald J",
+            "Don Gerard "
+          ],
+          "ballotsCast": [
+            "20",
+            "180"
+          ],
+          "percentages": [
+            "10.00",
+            "90.00"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        },
+        "precinctSummary": {
+          "registered_voters": 1121,
+          "total_ballots_cast": 203,
+          "precinct_number": 1
+        },
+        "city_council_election": {
+          "candidates": [
+            "Thomas A",
+            "Karen Foster  ",
+            "Deborah Frank Feinen"
+          ],
+          "ballotsCast": [
+            "103",
+            "122",
+            "106"
+          ],
+          "percentages": [
+            "31.12",
+            "36.86",
+            "32.02"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        }
+      },
+      {
+        "mayor_election": {
+          "candidates": [
+            "Gerald J",
+            "Don Gerard "
+          ],
+          "ballotsCast": [
+            "7",
+            "10"
+          ],
+          "percentages": [
+            "41.18",
+            "58.82"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        },
+        "precinctSummary": {
+          "registered_voters": 636,
+          "total_ballots_cast": 17,
+          "precinct_number": 2
+        },
+        "city_council_election": {
+          "candidates": [
+            "Thomas A",
+            "Karen Foster  ",
+            "Deborah Frank Feinen"
+          ],
+          "ballotsCast": [
+            "5",
+            "8",
+            "9"
+          ],
+          "percentages": [
+            "22.73",
+            "36.36",
+            "40.91"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        }
+      },
+      {
+        "mayor_election": {
+          "candidates": [
+            "Gerald J",
+            "Don Gerard "
+          ],
+          "ballotsCast": [
+            "0",
+            "15"
+          ],
+          "percentages": [
+            "0",
+            "100.00"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        },
+        "precinctSummary": {
+          "registered_voters": 1350,
+          "total_ballots_cast": 15,
+          "precinct_number": 3
+        },
+        "city_council_election": {
+          "candidates": [
+            "Thomas A",
+            "Karen Foster  ",
+            "Deborah Frank Feinen"
+          ],
+          "ballotsCast": [
+            "8",
+            "6",
+            "5"
+          ],
+          "percentages": [
+            "42.11",
+            "31.58",
+            "26.32"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        }
+      },
+      {
+        "mayor_election": {
+          "candidates": [
+            "Gerald J",
+            "Don Gerard "
+          ],
+          "ballotsCast": [
+            "2",
+            "6"
+          ],
+          "percentages": [
+            "25.00",
+            "75.00"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        },
+        "precinctSummary": {
+          "registered_voters": 1723,
+          "total_ballots_cast": 9,
+          "precinct_number": 4
+        },
+        "city_council_election": {
+          "candidates": [
+            "Thomas A",
+            "Karen Foster  ",
+            "Deborah Frank Feinen"
+          ],
+          "ballotsCast": [
+            "3",
+            "6",
+            "5"
+          ],
+          "percentages": [
+            "21.43",
+            "42.86",
+            "35.71"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        }
+      },
+      {
+        "mayor_election": {
+          "candidates": [
+            "Gerald J",
+            "Don Gerard "
+          ],
+          "ballotsCast": [
+            "0",
+            "6"
+          ],
+          "percentages": [
+            "0",
+            "100.00"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        },
+        "precinctSummary": {
+          "registered_voters": 2368,
+          "total_ballots_cast": 6,
+          "precinct_number": 5
+        },
+        "city_council_election": {
+          "candidates": [
+            "Thomas A",
+            "Karen Foster  ",
+            "Deborah Frank Feinen"
+          ],
+          "ballotsCast": [
+            "5",
+            "3",
+            "2"
+          ],
+          "percentages": [
+            "50.00",
+            "30.00",
+            "20.00"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        }
+      },
+      {
+        "mayor_election": {
+          "candidates": [
+            "Gerald J",
+            "Don Gerard "
+          ],
+          "ballotsCast": [
+            "67",
+            "80"
+          ],
+          "percentages": [
+            "45.58",
+            "54.42"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        },
+        "precinctSummary": {
+          "registered_voters": 1814,
+          "total_ballots_cast": 148,
+          "precinct_number": 6
+        },
+        "city_council_election": {
+          "candidates": [
+            "Thomas A",
+            "Karen Foster  ",
+            "Deborah Frank Feinen"
+          ],
+          "ballotsCast": [
+            "83",
+            "86",
+            "88"
+          ],
+          "percentages": [
+            "32.30",
+            "33.46",
+            "34.24"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        }
+      },
+      {
+        "mayor_election": {
+          "candidates": [
+            "Gerald J",
+            "Don Gerard "
+          ],
+          "ballotsCast": [
+            "20",
+            "23"
+          ],
+          "percentages": [
+            "46.51",
+            "53.49"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        },
+        "precinctSummary": {
+          "registered_voters": 1300,
+          "total_ballots_cast": 44,
+          "precinct_number": 7
+        },
+        "city_council_election": {
+          "candidates": [
+            "Thomas A",
+            "Karen Foster  ",
+            "Deborah Frank Feinen"
+          ],
+          "ballotsCast": [
+            "24",
+            "27",
+            "18"
+          ],
+          "percentages": [
+            "34.78",
+            "39.13",
+            "26.09"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        }
+      },
+      {
+        "mayor_election": {
+          "candidates": [
+            "Gerald J",
+            "Don Gerard "
+          ],
+          "ballotsCast": [
+            "2",
+            "10"
+          ],
+          "percentages": [
+            "16.67",
+            "83.33"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        },
+        "precinctSummary": {
+          "registered_voters": 1653,
+          "total_ballots_cast": 12,
+          "precinct_number": 8
+        },
+        "city_council_election": {
+          "candidates": [
+            "Thomas A",
+            "Karen Foster  ",
+            "Deborah Frank Feinen"
+          ],
+          "ballotsCast": [
+            "6",
+            "4",
+            "3"
+          ],
+          "percentages": [
+            "46.15",
+            "30.77",
+            "23.08"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        }
+      },
+      {
+        "mayor_election": {
+          "candidates": [
+            "Gerald J",
+            "Don Gerard "
+          ],
+          "ballotsCast": [
+            "34",
+            "71"
+          ],
+          "percentages": [
+            "32.38",
+            "67.62"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        },
+        "precinctSummary": {
+          "registered_voters": 1567,
+          "total_ballots_cast": 105,
+          "precinct_number": 9
+        },
+        "city_council_election": {
+          "candidates": [
+            "Thomas A",
+            "Karen Foster  ",
+            "Deborah Frank Feinen"
+          ],
+          "ballotsCast": [
+            "57",
+            "63",
+            "54"
+          ],
+          "percentages": [
+            "32.76",
+            "36.21",
+            "31.03"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        }
+      },
+      {
+        "mayor_election": {
+          "candidates": [
+            "Gerald J",
+            "Don Gerard "
+          ],
+          "ballotsCast": [
+            "59",
+            "115"
+          ],
+          "percentages": [
+            "33.91",
+            "66.09"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        },
+        "precinctSummary": {
+          "registered_voters": 1400,
+          "total_ballots_cast": 174,
+          "precinct_number": 10
+        },
+        "city_council_election": {
+          "candidates": [
+            "Thomas A",
+            "Karen Foster  ",
+            "Deborah Frank Feinen"
+          ],
+          "ballotsCast": [
+            "98",
+            "94",
+            "99"
+          ],
+          "percentages": [
+            "33.68",
+            "32.30",
+            "34.02"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        }
+      },
+      {
+        "mayor_election": {
+          "candidates": [
+            "Gerald J",
+            "Don Gerard "
+          ],
+          "ballotsCast": [
+            "70",
+            "149"
+          ],
+          "percentages": [
+            "31.96",
+            "68.04"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        },
+        "precinctSummary": {
+          "registered_voters": 985,
+          "total_ballots_cast": 224,
+          "precinct_number": 11
+        },
+        "city_council_election": {
+          "candidates": [
+            "Thomas A",
+            "Karen Foster  ",
+            "Deborah Frank Feinen"
+          ],
+          "ballotsCast": [
+            "135",
+            "108",
+            "120"
+          ],
+          "percentages": [
+            "37.19",
+            "29.75",
+            "33.06"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        }
+      },
+      {
+        "mayor_election": {
+          "candidates": [
+            "Gerald J",
+            "Don Gerard "
+          ],
+          "ballotsCast": [
+            "73",
+            "120"
+          ],
+          "percentages": [
+            "37.82",
+            "62.18"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        },
+        "precinctSummary": {
+          "registered_voters": 875,
+          "total_ballots_cast": 195,
+          "precinct_number": 12
+        },
+        "city_council_election": {
+          "candidates": [
+            "Thomas A",
+            "Karen Foster  ",
+            "Deborah Frank Feinen"
+          ],
+          "ballotsCast": [
+            "129",
+            "107",
+            "125"
+          ],
+          "percentages": [
+            "35.73",
+            "29.64",
+            "34.63"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        }
+      },
+      {
+        "mayor_election": {
+          "candidates": [
+            "Gerald J",
+            "Don Gerard "
+          ],
+          "ballotsCast": [
+            "87",
+            "220"
+          ],
+          "percentages": [
+            "28.34",
+            "71.66"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        },
+        "precinctSummary": {
+          "registered_voters": 1388,
+          "total_ballots_cast": 310,
+          "precinct_number": 13
+        },
+        "city_council_election": {
+          "candidates": [
+            "Thomas A",
+            "Karen Foster  ",
+            "Deborah Frank Feinen"
+          ],
+          "ballotsCast": [
+            "178",
+            "152",
+            "183"
+          ],
+          "percentages": [
+            "34.70",
+            "29.63",
+            "35.67"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        }
+      },
+      {
+        "mayor_election": {
+          "candidates": [
+            "Gerald J",
+            "Don Gerard "
+          ],
+          "ballotsCast": [
+            "40",
+            "70"
+          ],
+          "percentages": [
+            "36.36",
+            "63.64"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        },
+        "precinctSummary": {
+          "registered_voters": 833,
+          "total_ballots_cast": 114,
+          "precinct_number": 14
+        },
+        "city_council_election": {
+          "candidates": [
+            "Thomas A",
+            "Karen Foster  ",
+            "Deborah Frank Feinen"
+          ],
+          "ballotsCast": [
+            "65",
+            "61",
+            "65"
+          ],
+          "percentages": [
+            "34.03",
+            "31.94",
+            "34.03"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        }
+      },
+      {
+        "mayor_election": {
+          "candidates": [
+            "Gerald J",
+            "Don Gerard "
+          ],
+          "ballotsCast": [
+            "106",
+            "130"
+          ],
+          "percentages": [
+            "44.92",
+            "55.08"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        },
+        "precinctSummary": {
+          "registered_voters": 1002,
+          "total_ballots_cast": 238,
+          "precinct_number": 15
+        },
+        "city_council_election": {
+          "candidates": [
+            "Thomas A",
+            "Karen Foster  ",
+            "Deborah Frank Feinen"
+          ],
+          "ballotsCast": [
+            "150",
+            "137",
+            "142"
+          ],
+          "percentages": [
+            "34.97",
+            "31.93",
+            "33.10"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        }
+      },
+      {
+        "mayor_election": {
+          "candidates": [
+            "Gerald J",
+            "Don Gerard "
+          ],
+          "ballotsCast": [
+            "125",
+            "85"
+          ],
+          "percentages": [
+            "59.52",
+            "40.48"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        },
+        "precinctSummary": {
+          "registered_voters": 767,
+          "total_ballots_cast": 210,
+          "precinct_number": 16
+        },
+        "city_council_election": {
+          "candidates": [
+            "Thomas A",
+            "Karen Foster  ",
+            "Deborah Frank Feinen"
+          ],
+          "ballotsCast": [
+            "136",
+            "122",
+            "133"
+          ],
+          "percentages": [
+            "34.78",
+            "31.20",
+            "34.02"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        }
+      },
+      {
+        "mayor_election": {
+          "candidates": [
+            "Gerald J",
+            "Don Gerard "
+          ],
+          "ballotsCast": [
+            "117",
+            "95"
+          ],
+          "percentages": [
+            "55.19",
+            "44.81"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        },
+        "precinctSummary": {
+          "registered_voters": 1852,
+          "total_ballots_cast": 214,
+          "precinct_number": 17
+        },
+        "city_council_election": {
+          "candidates": [
+            "Thomas A",
+            "Karen Foster  ",
+            "Deborah Frank Feinen"
+          ],
+          "ballotsCast": [
+            "134",
+            "138",
+            "118"
+          ],
+          "percentages": [
+            "34.36",
+            "35.38",
+            "30.26"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        }
+      },
+      {
+        "mayor_election": {
+          "candidates": [
+            "Gerald J",
+            "Don Gerard "
+          ],
+          "ballotsCast": [
+            "124",
+            "77"
+          ],
+          "percentages": [
+            "61.69",
+            "38.31"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        },
+        "precinctSummary": {
+          "registered_voters": 1274,
+          "total_ballots_cast": 202,
+          "precinct_number": 18
+        },
+        "city_council_election": {
+          "candidates": [
+            "Thomas A",
+            "Karen Foster  ",
+            "Deborah Frank Feinen"
+          ],
+          "ballotsCast": [
+            "136",
+            "118",
+            "125"
+          ],
+          "percentages": [
+            "35.88",
+            "31.13",
+            "32.98"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        }
+      },
+      {
+        "mayor_election": {
+          "candidates": [
+            "Gerald J",
+            "Don Gerard "
+          ],
+          "ballotsCast": [
+            "116",
+            "167"
+          ],
+          "percentages": [
+            "40.99",
+            "59.01"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        },
+        "precinctSummary": {
+          "registered_voters": 947,
+          "total_ballots_cast": 286,
+          "precinct_number": 19
+        },
+        "city_council_election": {
+          "candidates": [
+            "Thomas A",
+            "Karen Foster  ",
+            "Deborah Frank Feinen"
+          ],
+          "ballotsCast": [
+            "166",
+            "153",
+            "163"
+          ],
+          "percentages": [
+            "34.44",
+            "31.74",
+            "33.82"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        }
+      },
+      {
+        "mayor_election": {
+          "candidates": [
+            "Gerald J",
+            "Don Gerard "
+          ],
+          "ballotsCast": [
+            "166",
+            "209"
+          ],
+          "percentages": [
+            "44.27",
+            "55.73"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        },
+        "precinctSummary": {
+          "registered_voters": 1012,
+          "total_ballots_cast": 379,
+          "precinct_number": 20
+        },
+        "city_council_election": {
+          "candidates": [
+            "Thomas A",
+            "Karen Foster  ",
+            "Deborah Frank Feinen"
+          ],
+          "ballotsCast": [
+            "244",
+            "211",
+            "234"
+          ],
+          "percentages": [
+            "35.41",
+            "30.62",
+            "33.96"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        }
+      },
+      {
+        "mayor_election": {
+          "candidates": [
+            "Gerald J",
+            "Don Gerard "
+          ],
+          "ballotsCast": [
+            "106",
+            "134"
+          ],
+          "percentages": [
+            "44.17",
+            "55.83"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        },
+        "precinctSummary": {
+          "registered_voters": 603,
+          "total_ballots_cast": 241,
+          "precinct_number": 21
+        },
+        "city_council_election": {
+          "candidates": [
+            "Thomas A",
+            "Karen Foster  ",
+            "Deborah Frank Feinen"
+          ],
+          "ballotsCast": [
+            "154",
+            "132",
+            "153"
+          ],
+          "percentages": [
+            "35.08",
+            "30.07",
+            "34.85"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        }
+      },
+      {
+        "mayor_election": {
+          "candidates": [
+            "Gerald J",
+            "Don Gerard "
+          ],
+          "ballotsCast": [
+            "91",
+            "94"
+          ],
+          "percentages": [
+            "49.19",
+            "50.81"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        },
+        "precinctSummary": {
+          "registered_voters": 450,
+          "total_ballots_cast": 185,
+          "precinct_number": 22
+        },
+        "city_council_election": {
+          "candidates": [
+            "Thomas A",
+            "Karen Foster  ",
+            "Deborah Frank Feinen"
+          ],
+          "ballotsCast": [
+            "111",
+            "109",
+            "128"
+          ],
+          "percentages": [
+            "31.90",
+            "31.32",
+            "36.78"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        }
+      },
+      {
+        "mayor_election": {
+          "candidates": [
+            "Gerald J",
+            "Don Gerard "
+          ],
+          "ballotsCast": [
+            "81",
+            "100"
+          ],
+          "percentages": [
+            "44.75",
+            "55.25"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        },
+        "precinctSummary": {
+          "registered_voters": 546,
+          "total_ballots_cast": 182,
+          "precinct_number": 23
+        },
+        "city_council_election": {
+          "candidates": [
+            "Thomas A",
+            "Karen Foster  ",
+            "Deborah Frank Feinen"
+          ],
+          "ballotsCast": [
+            "118",
+            "113",
+            "110"
+          ],
+          "percentages": [
+            "34.60",
+            "33.14",
+            "32.26"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        }
+      },
+      {
+        "mayor_election": {
+          "candidates": [
+            "Gerald J",
+            "Don Gerard "
+          ],
+          "ballotsCast": [
+            "287",
+            "248"
+          ],
+          "percentages": [
+            "53.64",
+            "46.36"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        },
+        "precinctSummary": {
+          "registered_voters": 1633,
+          "total_ballots_cast": 545,
+          "precinct_number": 24
+        },
+        "city_council_election": {
+          "candidates": [
+            "Thomas A",
+            "Karen Foster  ",
+            "Deborah Frank Feinen"
+          ],
+          "ballotsCast": [
+            "364",
+            "306",
+            "347"
+          ],
+          "percentages": [
+            "35.79",
+            "30.09",
+            "34.12"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        }
+      },
+      {
+        "mayor_election": {
+          "candidates": [
+            "Gerald J",
+            "Don Gerard "
+          ],
+          "ballotsCast": [
+            "101",
+            "114"
+          ],
+          "percentages": [
+            "46.98",
+            "53.02"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        },
+        "precinctSummary": {
+          "registered_voters": 710,
+          "total_ballots_cast": 218,
+          "precinct_number": 25
+        },
+        "city_council_election": {
+          "candidates": [
+            "Thomas A",
+            "Karen Foster  ",
+            "Deborah Frank Feinen"
+          ],
+          "ballotsCast": [
+            "131",
+            "119",
+            "125"
+          ],
+          "percentages": [
+            "34.93",
+            "31.73",
+            "33.33"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        }
+      },
+      {
+        "mayor_election": {
+          "candidates": [
+            "Gerald J",
+            "Don Gerard "
+          ],
+          "ballotsCast": [
+            "137",
+            "167"
+          ],
+          "percentages": [
+            "45.07",
+            "54.93"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        },
+        "precinctSummary": {
+          "registered_voters": 1157,
+          "total_ballots_cast": 308,
+          "precinct_number": 26
+        },
+        "city_council_election": {
+          "candidates": [
+            "Thomas A",
+            "Karen Foster  ",
+            "Deborah Frank Feinen"
+          ],
+          "ballotsCast": [
+            "220",
+            "191",
+            "199"
+          ],
+          "percentages": [
+            "36.07",
+            "31.31",
+            "32.62"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        }
+      },
+      {
+        "mayor_election": {
+          "candidates": [
+            "Gerald J",
+            "Don Gerard "
+          ],
+          "ballotsCast": [
+            "114",
+            "85"
+          ],
+          "percentages": [
+            "57.29",
+            "42.71"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        },
+        "precinctSummary": {
+          "registered_voters": 615,
+          "total_ballots_cast": 202,
+          "precinct_number": 27
+        },
+        "city_council_election": {
+          "candidates": [
+            "Thomas A",
+            "Karen Foster  ",
+            "Deborah Frank Feinen"
+          ],
+          "ballotsCast": [
+            "137",
+            "119",
+            "139"
+          ],
+          "percentages": [
+            "34.68",
+            "30.13",
+            "35.19"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        }
+      },
+      {
+        "mayor_election": {
+          "candidates": [
+            "Gerald J",
+            "Don Gerard "
+          ],
+          "ballotsCast": [
+            "75",
+            "58"
+          ],
+          "percentages": [
+            "56.39",
+            "43.61"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        },
+        "precinctSummary": {
+          "registered_voters": 473,
+          "total_ballots_cast": 136,
+          "precinct_number": 28
+        },
+        "city_council_election": {
+          "candidates": [
+            "Thomas A",
+            "Karen Foster  ",
+            "Deborah Frank Feinen"
+          ],
+          "ballotsCast": [
+            "84",
+            "76",
+            "88"
+          ],
+          "percentages": [
+            "33.87",
+            "30.65",
+            "35.48"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        }
+      },
+      {
+        "mayor_election": {
+          "candidates": [
+            "Gerald J",
+            "Don Gerard "
+          ],
+          "ballotsCast": [
+            "97",
+            "93"
+          ],
+          "percentages": [
+            "51.05",
+            "48.95"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        },
+        "precinctSummary": {
+          "registered_voters": 724,
+          "total_ballots_cast": 191,
+          "precinct_number": 29
+        },
+        "city_council_election": {
+          "candidates": [
+            "Thomas A",
+            "Karen Foster  ",
+            "Deborah Frank Feinen"
+          ],
+          "ballotsCast": [
+            "111",
+            "121",
+            "133"
+          ],
+          "percentages": [
+            "30.41",
+            "33.15",
+            "36.44"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        }
+      },
+      {
+        "mayor_election": {
+          "candidates": [
+            "Gerald J",
+            "Don Gerard "
+          ],
+          "ballotsCast": [
+            "50",
+            "53"
+          ],
+          "percentages": [
+            "48.54",
+            "51.46"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        },
+        "precinctSummary": {
+          "registered_voters": 1114,
+          "total_ballots_cast": 103,
+          "precinct_number": 30
+        },
+        "city_council_election": {
+          "candidates": [
+            "Thomas A",
+            "Karen Foster  ",
+            "Deborah Frank Feinen"
+          ],
+          "ballotsCast": [
+            "53",
+            "62",
+            "62"
+          ],
+          "percentages": [
+            "29.94",
+            "35.03",
+            "35.03"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        }
+      },
+      {
+        "mayor_election": {
+          "candidates": [
+            "Gerald J",
+            "Don Gerard "
+          ],
+          "ballotsCast": [
+            "80",
+            "83"
+          ],
+          "percentages": [
+            "49.08",
+            "50.92"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        },
+        "precinctSummary": {
+          "registered_voters": 848,
+          "total_ballots_cast": 163,
+          "precinct_number": 31
+        },
+        "city_council_election": {
+          "candidates": [
+            "Thomas A",
+            "Karen Foster  ",
+            "Deborah Frank Feinen"
+          ],
+          "ballotsCast": [
+            "93",
+            "113",
+            "103"
+          ],
+          "percentages": [
+            "30.10",
+            "36.57",
+            "33.33"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        }
+      },
+      {
+        "mayor_election": {
+          "candidates": [
+            "Gerald J",
+            "Don Gerard "
+          ],
+          "ballotsCast": [
+            "237",
+            "145"
+          ],
+          "percentages": [
+            "62.04",
+            "37.96"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        },
+        "precinctSummary": {
+          "registered_voters": 1114,
+          "total_ballots_cast": 391,
+          "precinct_number": 32
+        },
+        "city_council_election": {
+          "candidates": [
+            "Thomas A",
+            "Karen Foster  ",
+            "Deborah Frank Feinen"
+          ],
+          "ballotsCast": [
+            "241",
+            "224",
+            "254"
+          ],
+          "percentages": [
+            "33.52",
+            "31.15",
+            "35.33"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        }
+      },
+      {
+        "mayor_election": {
+          "candidates": [
+            "Gerald J",
+            "Don Gerard "
+          ],
+          "ballotsCast": [
+            "187",
+            "149"
+          ],
+          "percentages": [
+            "55.65",
+            "44.35"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        },
+        "precinctSummary": {
+          "registered_voters": 1242,
+          "total_ballots_cast": 339,
+          "precinct_number": 33
+        },
+        "city_council_election": {
+          "candidates": [
+            "Thomas A",
+            "Karen Foster  ",
+            "Deborah Frank Feinen"
+          ],
+          "ballotsCast": [
+            "222",
+            "228",
+            "224"
+          ],
+          "percentages": [
+            "32.94",
+            "33.83",
+            "33.23"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        }
+      },
+      {
+        "mayor_election": {
+          "candidates": [
+            "Gerald J",
+            "Don Gerard "
+          ],
+          "ballotsCast": [
+            "172",
+            "155"
+          ],
+          "percentages": [
+            "52.60",
+            "47.40"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        },
+        "precinctSummary": {
+          "registered_voters": 2327,
+          "total_ballots_cast": 327,
+          "precinct_number": 34
+        },
+        "city_council_election": {
+          "candidates": [
+            "Thomas A",
+            "Karen Foster  ",
+            "Deborah Frank Feinen"
+          ],
+          "ballotsCast": [
+            "207",
+            "214",
+            "205"
+          ],
+          "percentages": [
+            "33.07",
+            "34.19",
+            "32.75"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        }
+      },
+      {
+        "mayor_election": {
+          "candidates": [
+            "Gerald J",
+            "Don Gerard "
+          ],
+          "ballotsCast": [
+            "183",
+            "134"
+          ],
+          "percentages": [
+            "57.73",
+            "42.27"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        },
+        "precinctSummary": {
+          "registered_voters": 1573,
+          "total_ballots_cast": 321,
+          "precinct_number": 35
+        },
+        "city_council_election": {
+          "candidates": [
+            "Thomas A",
+            "Karen Foster  ",
+            "Deborah Frank Feinen"
+          ],
+          "ballotsCast": [
+            "196",
+            "186",
+            "192"
+          ],
+          "percentages": [
+            "34.15",
+            "32.40",
+            "33.45"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        }
+      },
+      {
+        "mayor_election": {
+          "candidates": [
+            "Gerald J",
+            "Don Gerard "
+          ],
+          "ballotsCast": [
+            "160",
+            "121"
+          ],
+          "percentages": [
+            "56.94",
+            "43.06"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        },
+        "precinctSummary": {
+          "registered_voters": 1072,
+          "total_ballots_cast": 287,
+          "precinct_number": 36
+        },
+        "city_council_election": {
+          "candidates": [
+            "Thomas A",
+            "Karen Foster  ",
+            "Deborah Frank Feinen"
+          ],
+          "ballotsCast": [
+            "178",
+            "170",
+            "178"
+          ],
+          "percentages": [
+            "33.84",
+            "32.32",
+            "33.84"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        }
+      },
+      {
+        "mayor_election": {
+          "candidates": [
+            "Gerald J",
+            "Don Gerard "
+          ],
+          "ballotsCast": [
+            "170",
+            "157"
+          ],
+          "percentages": [
+            "51.99",
+            "48.01"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        },
+        "precinctSummary": {
+          "registered_voters": 1737,
+          "total_ballots_cast": 330,
+          "precinct_number": 37
+        },
+        "city_council_election": {
+          "candidates": [
+            "Thomas A",
+            "Karen Foster  ",
+            "Deborah Frank Feinen"
+          ],
+          "ballotsCast": [
+            "218",
+            "191",
+            "200"
+          ],
+          "percentages": [
+            "35.80",
+            "31.36",
+            "32.84"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        }
+      },
+      {
+        "mayor_election": {
+          "candidates": [
+            "Gerald J",
+            "Don Gerard "
+          ],
+          "ballotsCast": [
+            "313",
+            "254"
+          ],
+          "percentages": [
+            "55.20",
+            "44.80"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        },
+        "precinctSummary": {
+          "registered_voters": 2297,
+          "total_ballots_cast": 577,
+          "precinct_number": 38
+        },
+        "city_council_election": {
+          "candidates": [
+            "Thomas A",
+            "Karen Foster  ",
+            "Deborah Frank Feinen"
+          ],
+          "ballotsCast": [
+            "373",
+            "348",
+            "356"
+          ],
+          "percentages": [
+            "34.63",
+            "32.31",
+            "33.05"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "year": 2015,
+    "precincts": [
+      {
+        "mayor_election": {
+          "candidates": [
+            "Joe Petry  ",
+            "Deborah Frank Feinen",
+            "Karen Foster  ",
+            "Don Gerard "
+          ],
+          "ballotsCast": [
+            "6",
+            "14",
+            "32",
+            "141"
+          ],
+          "percentages": [
+            "3.11",
+            "7.25",
+            "16.58",
+            "73.06"
+          ],
+          "party": [
+            "P",
+            "P",
+            "P",
+            "P"
+          ]
+        },
+        "precinctSummary": {
+          "registered_voters": 1100,
+          "total_ballots_cast": 194,
+          "precinct_number": 1
+        },
+        "city_council_election": {
+          "candidates": [
+            "Thomas A",
+            "Matthew Gladney  ",
+            "William A"
+          ],
+          "ballotsCast": [
+            "64",
+            "87",
+            "160"
+          ],
+          "percentages": [
+            "20.58",
+            "27.97",
+            "51.45"
+          ],
+          "party": [
+            "P",
+            "P",
+            "P",
+            "P"
+          ]
+        }
+      },
+      {
+        "mayor_election": {
+          "candidates": [
+            "Joe Petry  ",
+            "Deborah Frank Feinen",
+            "Karen Foster  ",
+            "Don Gerard "
+          ],
+          "ballotsCast": [
+            "3",
+            "0",
+            "0",
+            "8"
+          ],
+          "percentages": [
+            "27.27",
+            "0",
+            "0",
+            "72.73"
+          ],
+          "party": [
+            "P",
+            "P",
+            "P",
+            "P"
+          ]
+        },
+        "precinctSummary": {
+          "registered_voters": 423,
+          "total_ballots_cast": 11,
+          "precinct_number": 2
+        },
+        "city_council_election": {
+          "candidates": [
+            "Thomas A",
+            "Matthew Gladney  ",
+            "William A"
+          ],
+          "ballotsCast": [
+            "4",
+            "5",
+            "4"
+          ],
+          "percentages": [
+            "30.77",
+            "38.46",
+            "30.77"
+          ],
+          "party": [
+            "P",
+            "P",
+            "P",
+            "P"
+          ]
+        }
+      },
+      {
+        "mayor_election": {
+          "candidates": [
+            "Joe Petry  ",
+            "Deborah Frank Feinen",
+            "Karen Foster  ",
+            "Don Gerard "
+          ],
+          "ballotsCast": [
+            "3",
+            "1",
+            "3",
+            "13"
+          ],
+          "percentages": [
+            "15.00",
+            "5.00",
+            "15.00",
+            "65.00"
+          ],
+          "party": [
+            "P",
+            "P",
+            "P",
+            "P"
+          ]
+        },
+        "precinctSummary": {
+          "registered_voters": 1034,
+          "total_ballots_cast": 21,
+          "precinct_number": 3
+        },
+        "city_council_election": {
+          "candidates": [
+            "Thomas A",
+            "Matthew Gladney  ",
+            "William A"
+          ],
+          "ballotsCast": [
+            "10",
+            "12",
+            "9"
+          ],
+          "percentages": [
+            "32.26",
+            "38.71",
+            "29.03"
+          ],
+          "party": [
+            "P",
+            "P",
+            "P",
+            "P"
+          ]
+        }
+      },
+      {
+        "mayor_election": {
+          "candidates": [
+            "Joe Petry  ",
+            "Deborah Frank Feinen",
+            "Karen Foster  ",
+            "Don Gerard "
+          ],
+          "ballotsCast": [
+            "2",
+            "2",
+            "1",
+            "7"
+          ],
+          "percentages": [
+            "16.67",
+            "16.67",
+            "8.33",
+            "58.33"
+          ],
+          "party": [
+            "P",
+            "P",
+            "P",
+            "P"
+          ]
+        },
+        "precinctSummary": {
+          "registered_voters": 1409,
+          "total_ballots_cast": 12,
+          "precinct_number": 4
+        },
+        "city_council_election": {
+          "candidates": [
+            "Thomas A",
+            "Matthew Gladney  ",
+            "William A"
+          ],
+          "ballotsCast": [
+            "7",
+            "6",
+            "5"
+          ],
+          "percentages": [
+            "38.89",
+            "33.33",
+            "27.78"
+          ],
+          "party": [
+            "P",
+            "P",
+            "P",
+            "P"
+          ]
+        }
+      },
+      {
+        "mayor_election": {
+          "candidates": [
+            "Joe Petry  ",
+            "Deborah Frank Feinen",
+            "Karen Foster  ",
+            "Don Gerard "
+          ],
+          "ballotsCast": [
+            "1",
+            "2",
+            "0",
+            "2"
+          ],
+          "percentages": [
+            "20.00",
+            "40.00",
+            "0",
+            "40.00"
+          ],
+          "party": [
+            "P",
+            "P",
+            "P",
+            "P"
+          ]
+        },
+        "precinctSummary": {
+          "registered_voters": 1735,
+          "total_ballots_cast": 5,
+          "precinct_number": 5
+        },
+        "city_council_election": {
+          "candidates": [
+            "Thomas A",
+            "Matthew Gladney  ",
+            "William A"
+          ],
+          "ballotsCast": [
+            "1",
+            "5",
+            "1"
+          ],
+          "percentages": [
+            "14.29",
+            "71.43",
+            "14.29"
+          ],
+          "party": [
+            "P",
+            "P",
+            "P",
+            "P"
+          ]
+        }
+      },
+      {
+        "mayor_election": {
+          "candidates": [
+            "Joe Petry  ",
+            "Deborah Frank Feinen",
+            "Karen Foster  ",
+            "Don Gerard "
+          ],
+          "ballotsCast": [
+            "30",
+            "44",
+            "36",
+            "114"
+          ],
+          "percentages": [
+            "13.39",
+            "19.64",
+            "16.07",
+            "50.89"
+          ],
+          "party": [
+            "P",
+            "P",
+            "P",
+            "P"
+          ]
+        },
+        "precinctSummary": {
+          "registered_voters": 2091,
+          "total_ballots_cast": 228,
+          "precinct_number": 6
+        },
+        "city_council_election": {
+          "candidates": [
+            "Thomas A",
+            "Matthew Gladney  ",
+            "William A"
+          ],
+          "ballotsCast": [
+            "121",
+            "118",
+            "141"
+          ],
+          "percentages": [
+            "31.84",
+            "31.05",
+            "37.11"
+          ],
+          "party": [
+            "P",
+            "P",
+            "P",
+            "P"
+          ]
+        }
+      },
+      {
+        "mayor_election": {
+          "candidates": [
+            "Joe Petry  ",
+            "Deborah Frank Feinen",
+            "Karen Foster  ",
+            "Don Gerard "
+          ],
+          "ballotsCast": [
+            "2",
+            "5",
+            "5",
+            "14"
+          ],
+          "percentages": [
+            "7.69",
+            "19.23",
+            "19.23",
+            "53.85"
+          ],
+          "party": [
+            "P",
+            "P",
+            "P",
+            "P"
+          ]
+        },
+        "precinctSummary": {
+          "registered_voters": 815,
+          "total_ballots_cast": 26,
+          "precinct_number": 7
+        },
+        "city_council_election": {
+          "candidates": [
+            "Thomas A",
+            "Matthew Gladney  ",
+            "William A"
+          ],
+          "ballotsCast": [
+            "16",
+            "15",
+            "12"
+          ],
+          "percentages": [
+            "37.21",
+            "34.88",
+            "27.91"
+          ],
+          "party": [
+            "P",
+            "P",
+            "P",
+            "P"
+          ]
+        }
+      },
+      {
+        "mayor_election": {
+          "candidates": [
+            "Joe Petry  ",
+            "Deborah Frank Feinen",
+            "Karen Foster  ",
+            "Don Gerard "
+          ],
+          "ballotsCast": [
+            "1",
+            "2",
+            "2",
+            "7"
+          ],
+          "percentages": [
+            "8.33",
+            "16.67",
+            "16.67",
+            "58.33"
+          ],
+          "party": [
+            "P",
+            "P",
+            "P",
+            "P"
+          ]
+        },
+        "precinctSummary": {
+          "registered_voters": 1131,
+          "total_ballots_cast": 13,
+          "precinct_number": 8
+        },
+        "city_council_election": {
+          "candidates": [
+            "Thomas A",
+            "Matthew Gladney  ",
+            "William A"
+          ],
+          "ballotsCast": [
+            "5",
+            "8",
+            "9"
+          ],
+          "percentages": [
+            "22.73",
+            "36.36",
+            "40.91"
+          ],
+          "party": [
+            "P",
+            "P",
+            "P",
+            "P"
+          ]
+        }
+      },
+      {
+        "mayor_election": {
+          "candidates": [
+            "Joe Petry  ",
+            "Deborah Frank Feinen",
+            "Karen Foster  ",
+            "Don Gerard "
+          ],
+          "ballotsCast": [
+            "17",
+            "43",
+            "26",
+            "83"
+          ],
+          "percentages": [
+            "10.06",
+            "25.44",
+            "15.38",
+            "49.11"
+          ],
+          "party": [
+            "P",
+            "P",
+            "P",
+            "P"
+          ]
+        },
+        "precinctSummary": {
+          "registered_voters": 1429,
+          "total_ballots_cast": 173,
+          "precinct_number": 9
+        },
+        "city_council_election": {
+          "candidates": [
+            "Thomas A",
+            "Matthew Gladney  ",
+            "William A"
+          ],
+          "ballotsCast": [
+            "69",
+            "69",
+            "108"
+          ],
+          "percentages": [
+            "28.05",
+            "28.05",
+            "43.90"
+          ],
+          "party": [
+            "P",
+            "P",
+            "P",
+            "P"
+          ]
+        }
+      },
+      {
+        "mayor_election": {
+          "candidates": [
+            "Joe Petry  ",
+            "Deborah Frank Feinen",
+            "Karen Foster  ",
+            "Don Gerard "
+          ],
+          "ballotsCast": [
+            "16",
+            "39",
+            "19",
+            "76"
+          ],
+          "percentages": [
+            "10.67",
+            "26.00",
+            "12.67",
+            "50.67"
+          ],
+          "party": [
+            "P",
+            "P",
+            "P",
+            "P"
+          ]
+        },
+        "precinctSummary": {
+          "registered_voters": 1024,
+          "total_ballots_cast": 150,
+          "precinct_number": 10
+        },
+        "city_council_election": {
+          "candidates": [
+            "Thomas A",
+            "Matthew Gladney  ",
+            "William A"
+          ],
+          "ballotsCast": [
+            "90",
+            "67",
+            "72"
+          ],
+          "percentages": [
+            "39.30",
+            "29.26",
+            "31.44"
+          ],
+          "party": [
+            "P",
+            "P",
+            "P",
+            "P"
+          ]
+        }
+      },
+      {
+        "mayor_election": {
+          "candidates": [
+            "Joe Petry  ",
+            "Deborah Frank Feinen",
+            "Karen Foster  ",
+            "Don Gerard "
+          ],
+          "ballotsCast": [
+            "46",
+            "129",
+            "15",
+            "182"
+          ],
+          "percentages": [
+            "12.37",
+            "34.68",
+            "4.03",
+            "48.92"
+          ],
+          "party": [
+            "P",
+            "P",
+            "P",
+            "P"
+          ]
+        },
+        "precinctSummary": {
+          "registered_voters": 1344,
+          "total_ballots_cast": 385,
+          "precinct_number": 11
+        },
+        "city_council_election": {
+          "candidates": [
+            "Thomas A",
+            "Matthew Gladney  ",
+            "William A"
+          ],
+          "ballotsCast": [
+            "202",
+            "173",
+            "133"
+          ],
+          "percentages": [
+            "39.76",
+            "34.06",
+            "26.18"
+          ],
+          "party": [
+            "P",
+            "P",
+            "P",
+            "P"
+          ]
+        }
+      },
+      {
+        "mayor_election": {
+          "candidates": [
+            "Joe Petry  ",
+            "Deborah Frank Feinen",
+            "Karen Foster  ",
+            "Don Gerard "
+          ],
+          "ballotsCast": [
+            "51",
+            "105",
+            "22",
+            "125"
+          ],
+          "percentages": [
+            "16.83",
+            "34.65",
+            "7.26",
+            "41.25"
+          ],
+          "party": [
+            "P",
+            "P",
+            "P",
+            "P"
+          ]
+        },
+        "precinctSummary": {
+          "registered_voters": 1102,
+          "total_ballots_cast": 311,
+          "precinct_number": 12
+        },
+        "city_council_election": {
+          "candidates": [
+            "Thomas A",
+            "Matthew Gladney  ",
+            "William A"
+          ],
+          "ballotsCast": [
+            "191",
+            "132",
+            "122"
+          ],
+          "percentages": [
+            "42.92",
+            "29.66",
+            "27.42"
+          ],
+          "party": [
+            "P",
+            "P",
+            "P",
+            "P"
+          ]
+        }
+      },
+      {
+        "mayor_election": {
+          "candidates": [
+            "Joe Petry  ",
+            "Deborah Frank Feinen",
+            "Karen Foster  ",
+            "Don Gerard "
+          ],
+          "ballotsCast": [
+            "92",
+            "131",
+            "22",
+            "167"
+          ],
+          "percentages": [
+            "22.33",
+            "31.80",
+            "5.34",
+            "40.53"
+          ],
+          "party": [
+            "P",
+            "P",
+            "P",
+            "P"
+          ]
+        },
+        "precinctSummary": {
+          "registered_voters": 1113,
+          "total_ballots_cast": 419,
+          "precinct_number": 13
+        },
+        "city_council_election": {
+          "candidates": [
+            "Thomas A",
+            "Matthew Gladney  ",
+            "William A"
+          ],
+          "ballotsCast": [
+            "271",
+            "192",
+            "161"
+          ],
+          "percentages": [
+            "43.43",
+            "30.77",
+            "25.80"
+          ],
+          "party": [
+            "P",
+            "P",
+            "P",
+            "P"
+          ]
+        }
+      },
+      {
+        "mayor_election": {
+          "candidates": [
+            "Joe Petry  ",
+            "Deborah Frank Feinen",
+            "Karen Foster  ",
+            "Don Gerard "
+          ],
+          "ballotsCast": [
+            "18",
+            "39",
+            "15",
+            "52"
+          ],
+          "percentages": [
+            "14.52",
+            "31.45",
+            "12.10",
+            "41.94"
+          ],
+          "party": [
+            "P",
+            "P",
+            "P",
+            "P"
+          ]
+        },
+        "precinctSummary": {
+          "registered_voters": 487,
+          "total_ballots_cast": 127,
+          "precinct_number": 14
+        },
+        "city_council_election": {
+          "candidates": [
+            "Thomas A",
+            "Matthew Gladney  ",
+            "William A"
+          ],
+          "ballotsCast": [
+            "56",
+            "58",
+            "44"
+          ],
+          "percentages": [
+            "35.44",
+            "36.71",
+            "27.85"
+          ],
+          "party": [
+            "P",
+            "P",
+            "P",
+            "P"
+          ]
+        }
+      },
+      {
+        "mayor_election": {
+          "candidates": [
+            "Joe Petry  ",
+            "Deborah Frank Feinen",
+            "Karen Foster  ",
+            "Don Gerard "
+          ],
+          "ballotsCast": [
+            "47",
+            "115",
+            "29",
+            "112"
+          ],
+          "percentages": [
+            "15.51",
+            "37.95",
+            "9.57",
+            "36.96"
+          ],
+          "party": [
+            "P",
+            "P",
+            "P",
+            "P"
+          ]
+        },
+        "precinctSummary": {
+          "registered_voters": 888,
+          "total_ballots_cast": 311,
+          "precinct_number": 15
+        },
+        "city_council_election": {
+          "candidates": [
+            "Thomas A",
+            "Matthew Gladney  ",
+            "William A"
+          ],
+          "ballotsCast": [
+            "188",
+            "139",
+            "137"
+          ],
+          "percentages": [
+            "40.52",
+            "29.96",
+            "29.53"
+          ],
+          "party": [
+            "P",
+            "P",
+            "P",
+            "P"
+          ]
+        }
+      },
+      {
+        "mayor_election": {
+          "candidates": [
+            "Joe Petry  ",
+            "Deborah Frank Feinen",
+            "Karen Foster  ",
+            "Don Gerard "
+          ],
+          "ballotsCast": [
+            "60",
+            "122",
+            "29",
+            "57"
+          ],
+          "percentages": [
+            "22.39",
+            "45.52",
+            "10.82",
+            "21.27"
+          ],
+          "party": [
+            "P",
+            "P",
+            "P",
+            "P"
+          ]
+        },
+        "precinctSummary": {
+          "registered_voters": 652,
+          "total_ballots_cast": 275,
+          "precinct_number": 16
+        },
+        "city_council_election": {
+          "candidates": [
+            "Thomas A",
+            "Matthew Gladney  ",
+            "William A"
+          ],
+          "ballotsCast": [
+            "178",
+            "133",
+            "126"
+          ],
+          "percentages": [
+            "40.73",
+            "30.43",
+            "28.83"
+          ],
+          "party": [
+            "P",
+            "P",
+            "P",
+            "P"
+          ]
+        }
+      },
+      {
+        "mayor_election": {
+          "candidates": [
+            "Joe Petry  ",
+            "Deborah Frank Feinen",
+            "Karen Foster  ",
+            "Don Gerard "
+          ],
+          "ballotsCast": [
+            "49",
+            "155",
+            "59",
+            "162"
+          ],
+          "percentages": [
+            "11.53",
+            "36.47",
+            "13.88",
+            "38.12"
+          ],
+          "party": [
+            "P",
+            "P",
+            "P",
+            "P"
+          ]
+        },
+        "precinctSummary": {
+          "registered_voters": 1867,
+          "total_ballots_cast": 436,
+          "precinct_number": 17
+        },
+        "city_council_election": {
+          "candidates": [
+            "Thomas A",
+            "Matthew Gladney  ",
+            "William A"
+          ],
+          "ballotsCast": [
+            "259",
+            "197",
+            "203"
+          ],
+          "percentages": [
+            "39.30",
+            "29.89",
+            "30.80"
+          ],
+          "party": [
+            "P",
+            "P",
+            "P",
+            "P"
+          ]
+        }
+      },
+      {
+        "mayor_election": {
+          "candidates": [
+            "Joe Petry  ",
+            "Deborah Frank Feinen",
+            "Karen Foster  ",
+            "Don Gerard "
+          ],
+          "ballotsCast": [
+            "55",
+            "118",
+            "46",
+            "115"
+          ],
+          "percentages": [
+            "16.47",
+            "35.33",
+            "13.77",
+            "34.43"
+          ],
+          "party": [
+            "P",
+            "P",
+            "P",
+            "P"
+          ]
+        },
+        "precinctSummary": {
+          "registered_voters": 1182,
+          "total_ballots_cast": 339,
+          "precinct_number": 18
+        },
+        "city_council_election": {
+          "candidates": [
+            "Thomas A",
+            "Matthew Gladney  ",
+            "William A"
+          ],
+          "ballotsCast": [
+            "205",
+            "172",
+            "170"
+          ],
+          "percentages": [
+            "37.48",
+            "31.44",
+            "31.08"
+          ],
+          "party": [
+            "P",
+            "P",
+            "P",
+            "P"
+          ]
+        }
+      },
+      {
+        "mayor_election": {
+          "candidates": [
+            "Joe Petry  ",
+            "Deborah Frank Feinen",
+            "Karen Foster  ",
+            "Don Gerard "
+          ],
+          "ballotsCast": [
+            "80",
+            "122",
+            "32",
+            "138"
+          ],
+          "percentages": [
+            "21.51",
+            "32.80",
+            "8.60",
+            "37.10"
+          ],
+          "party": [
+            "P",
+            "P",
+            "P",
+            "P"
+          ]
+        },
+        "precinctSummary": {
+          "registered_voters": 872,
+          "total_ballots_cast": 383,
+          "precinct_number": 19
+        },
+        "city_council_election": {
+          "candidates": [
+            "Thomas A",
+            "Matthew Gladney  ",
+            "William A"
+          ],
+          "ballotsCast": [
+            "243",
+            "150",
+            "131"
+          ],
+          "percentages": [
+            "46.37",
+            "28.63",
+            "25.00"
+          ],
+          "party": [
+            "P",
+            "P",
+            "P",
+            "P"
+          ]
+        }
+      },
+      {
+        "mayor_election": {
+          "candidates": [
+            "Joe Petry  ",
+            "Deborah Frank Feinen",
+            "Karen Foster  ",
+            "Don Gerard "
+          ],
+          "ballotsCast": [
+            "107",
+            "240",
+            "23",
+            "135"
+          ],
+          "percentages": [
+            "21.19",
+            "47.52",
+            "4.55",
+            "26.73"
+          ],
+          "party": [
+            "P",
+            "P",
+            "P",
+            "P"
+          ]
+        },
+        "precinctSummary": {
+          "registered_voters": 974,
+          "total_ballots_cast": 514,
+          "precinct_number": 20
+        },
+        "city_council_election": {
+          "candidates": [
+            "Thomas A",
+            "Matthew Gladney  ",
+            "William A"
+          ],
+          "ballotsCast": [
+            "349",
+            "238",
+            "200"
+          ],
+          "percentages": [
+            "44.35",
+            "30.24",
+            "25.41"
+          ],
+          "party": [
+            "P",
+            "P",
+            "P",
+            "P"
+          ]
+        }
+      },
+      {
+        "mayor_election": {
+          "candidates": [
+            "Joe Petry  ",
+            "Deborah Frank Feinen",
+            "Karen Foster  ",
+            "Don Gerard "
+          ],
+          "ballotsCast": [
+            "66",
+            "159",
+            "9",
+            "76"
+          ],
+          "percentages": [
+            "21.29",
+            "51.29",
+            "2.90",
+            "24.52"
+          ],
+          "party": [
+            "P",
+            "P",
+            "P",
+            "P"
+          ]
+        },
+        "precinctSummary": {
+          "registered_voters": 569,
+          "total_ballots_cast": 324,
+          "precinct_number": 21
+        },
+        "city_council_election": {
+          "candidates": [
+            "Thomas A",
+            "Matthew Gladney  ",
+            "William A"
+          ],
+          "ballotsCast": [
+            "210",
+            "122",
+            "113"
+          ],
+          "percentages": [
+            "47.19",
+            "27.42",
+            "25.39"
+          ],
+          "party": [
+            "P",
+            "P",
+            "P",
+            "P"
+          ]
+        }
+      },
+      {
+        "mayor_election": {
+          "candidates": [
+            "Joe Petry  ",
+            "Deborah Frank Feinen",
+            "Karen Foster  ",
+            "Don Gerard "
+          ],
+          "ballotsCast": [
+            "63",
+            "115",
+            "20",
+            "37"
+          ],
+          "percentages": [
+            "26.81",
+            "48.94",
+            "8.51",
+            "15.74"
+          ],
+          "party": [
+            "P",
+            "P",
+            "P",
+            "P"
+          ]
+        },
+        "precinctSummary": {
+          "registered_voters": 416,
+          "total_ballots_cast": 236,
+          "precinct_number": 22
+        },
+        "city_council_election": {
+          "candidates": [
+            "Thomas A",
+            "Matthew Gladney  ",
+            "William A"
+          ],
+          "ballotsCast": [
+            "146",
+            "117",
+            "100"
+          ],
+          "percentages": [
+            "40.22",
+            "32.23",
+            "27.55"
+          ],
+          "party": [
+            "P",
+            "P",
+            "P",
+            "P"
+          ]
+        }
+      },
+      {
+        "mayor_election": {
+          "candidates": [
+            "Joe Petry  ",
+            "Deborah Frank Feinen",
+            "Karen Foster  ",
+            "Don Gerard "
+          ],
+          "ballotsCast": [
+            "53",
+            "85",
+            "18",
+            "85"
+          ],
+          "percentages": [
+            "21.99",
+            "35.27",
+            "7.47",
+            "35.27"
+          ],
+          "party": [
+            "P",
+            "P",
+            "P",
+            "P"
+          ]
+        },
+        "precinctSummary": {
+          "registered_voters": 515,
+          "total_ballots_cast": 247,
+          "precinct_number": 23
+        },
+        "city_council_election": {
+          "candidates": [
+            "Thomas A",
+            "Matthew Gladney  ",
+            "William A"
+          ],
+          "ballotsCast": [
+            "149",
+            "95",
+            "95"
+          ],
+          "percentages": [
+            "43.95",
+            "28.02",
+            "28.02"
+          ],
+          "party": [
+            "P",
+            "P",
+            "P",
+            "P"
+          ]
+        }
+      },
+      {
+        "mayor_election": {
+          "candidates": [
+            "Joe Petry  ",
+            "Deborah Frank Feinen",
+            "Karen Foster  ",
+            "Don Gerard "
+          ],
+          "ballotsCast": [
+            "219",
+            "369",
+            "49",
+            "171"
+          ],
+          "percentages": [
+            "27.10",
+            "45.67",
+            "6.06",
+            "21.16"
+          ],
+          "party": [
+            "P",
+            "P",
+            "P",
+            "P"
+          ]
+        },
+        "precinctSummary": {
+          "registered_voters": 1596,
+          "total_ballots_cast": 824,
+          "precinct_number": 24
+        },
+        "city_council_election": {
+          "candidates": [
+            "Thomas A",
+            "Matthew Gladney  ",
+            "William A"
+          ],
+          "ballotsCast": [
+            "538",
+            "391",
+            "363"
+          ],
+          "percentages": [
+            "41.64",
+            "30.26",
+            "28.10"
+          ],
+          "party": [
+            "P",
+            "P",
+            "P",
+            "P"
+          ]
+        }
+      },
+      {
+        "mayor_election": {
+          "candidates": [
+            "Joe Petry  ",
+            "Deborah Frank Feinen",
+            "Karen Foster  ",
+            "Don Gerard "
+          ],
+          "ballotsCast": [
+            "51",
+            "96",
+            "36",
+            "84"
+          ],
+          "percentages": [
+            "19.10",
+            "35.96",
+            "13.48",
+            "31.46"
+          ],
+          "party": [
+            "P",
+            "P",
+            "P",
+            "P"
+          ]
+        },
+        "precinctSummary": {
+          "registered_voters": 721,
+          "total_ballots_cast": 273,
+          "precinct_number": 25
+        },
+        "city_council_election": {
+          "candidates": [
+            "Thomas A",
+            "Matthew Gladney  ",
+            "William A"
+          ],
+          "ballotsCast": [
+            "174",
+            "141",
+            "123"
+          ],
+          "percentages": [
+            "39.73",
+            "32.19",
+            "28.08"
+          ],
+          "party": [
+            "P",
+            "P",
+            "P",
+            "P"
+          ]
+        }
+      },
+      {
+        "mayor_election": {
+          "candidates": [
+            "Joe Petry  ",
+            "Deborah Frank Feinen",
+            "Karen Foster  ",
+            "Don Gerard "
+          ],
+          "ballotsCast": [
+            "84",
+            "162",
+            "30",
+            "127"
+          ],
+          "percentages": [
+            "20.84",
+            "40.20",
+            "7.44",
+            "31.51"
+          ],
+          "party": [
+            "P",
+            "P",
+            "P",
+            "P"
+          ]
+        },
+        "precinctSummary": {
+          "registered_voters": 1015,
+          "total_ballots_cast": 410,
+          "precinct_number": 26
+        },
+        "city_council_election": {
+          "candidates": [
+            "Thomas A",
+            "Matthew Gladney  ",
+            "William A"
+          ],
+          "ballotsCast": [
+            "253",
+            "204",
+            "158"
+          ],
+          "percentages": [
+            "41.14",
+            "33.17",
+            "25.69"
+          ],
+          "party": [
+            "P",
+            "P",
+            "P",
+            "P"
+          ]
+        }
+      },
+      {
+        "mayor_election": {
+          "candidates": [
+            "Joe Petry  ",
+            "Deborah Frank Feinen",
+            "Karen Foster  ",
+            "Don Gerard "
+          ],
+          "ballotsCast": [
+            "76",
+            "118",
+            "12",
+            "73"
+          ],
+          "percentages": [
+            "27.24",
+            "42.29",
+            "4.30",
+            "26.16"
+          ],
+          "party": [
+            "P",
+            "P",
+            "P",
+            "P"
+          ]
+        },
+        "precinctSummary": {
+          "registered_voters": 581,
+          "total_ballots_cast": 280,
+          "precinct_number": 27
+        },
+        "city_council_election": {
+          "candidates": [
+            "Thomas A",
+            "Matthew Gladney  ",
+            "William A"
+          ],
+          "ballotsCast": [
+            "190",
+            "143",
+            "113"
+          ],
+          "percentages": [
+            "42.60",
+            "32.06",
+            "25.34"
+          ],
+          "party": [
+            "P",
+            "P",
+            "P",
+            "P"
+          ]
+        }
+      },
+      {
+        "mayor_election": {
+          "candidates": [
+            "Joe Petry  ",
+            "Deborah Frank Feinen",
+            "Karen Foster  ",
+            "Don Gerard "
+          ],
+          "ballotsCast": [
+            "40",
+            "68",
+            "22",
+            "62"
+          ],
+          "percentages": [
+            "20.83",
+            "35.42",
+            "11.46",
+            "32.29"
+          ],
+          "party": [
+            "P",
+            "P",
+            "P",
+            "P"
+          ]
+        },
+        "precinctSummary": {
+          "registered_voters": 461,
+          "total_ballots_cast": 194,
+          "precinct_number": 28
+        },
+        "city_council_election": {
+          "candidates": [
+            "Thomas A",
+            "Matthew Gladney  ",
+            "William A"
+          ],
+          "ballotsCast": [
+            "112",
+            "85",
+            "69"
+          ],
+          "percentages": [
+            "42.11",
+            "31.95",
+            "25.94"
+          ],
+          "party": [
+            "P",
+            "P",
+            "P",
+            "P"
+          ]
+        }
+      },
+      {
+        "mayor_election": {
+          "candidates": [
+            "Joe Petry  ",
+            "Deborah Frank Feinen",
+            "Karen Foster  ",
+            "Don Gerard "
+          ],
+          "ballotsCast": [
+            "35",
+            "116",
+            "19",
+            "67"
+          ],
+          "percentages": [
+            "14.77",
+            "48.95",
+            "8.02",
+            "28.27"
+          ],
+          "party": [
+            "P",
+            "P",
+            "P",
+            "P"
+          ]
+        },
+        "precinctSummary": {
+          "registered_voters": 692,
+          "total_ballots_cast": 243,
+          "precinct_number": 29
+        },
+        "city_council_election": {
+          "candidates": [
+            "Thomas A",
+            "Matthew Gladney  ",
+            "William A"
+          ],
+          "ballotsCast": [
+            "145",
+            "110",
+            "106"
+          ],
+          "percentages": [
+            "40.17",
+            "30.47",
+            "29.36"
+          ],
+          "party": [
+            "P",
+            "P",
+            "P",
+            "P"
+          ]
+        }
+      },
+      {
+        "mayor_election": {
+          "candidates": [
+            "Joe Petry  ",
+            "Deborah Frank Feinen",
+            "Karen Foster  ",
+            "Don Gerard "
+          ],
+          "ballotsCast": [
+            "27",
+            "43",
+            "24",
+            "47"
+          ],
+          "percentages": [
+            "19.15",
+            "30.50",
+            "17.02",
+            "33.33"
+          ],
+          "party": [
+            "P",
+            "P",
+            "P",
+            "P"
+          ]
+        },
+        "precinctSummary": {
+          "registered_voters": 1057,
+          "total_ballots_cast": 145,
+          "precinct_number": 30
+        },
+        "city_council_election": {
+          "candidates": [
+            "Thomas A",
+            "Matthew Gladney  ",
+            "William A"
+          ],
+          "ballotsCast": [
+            "68",
+            "78",
+            "68"
+          ],
+          "percentages": [
+            "31.78",
+            "36.45",
+            "31.78"
+          ],
+          "party": [
+            "P",
+            "P",
+            "P",
+            "P"
+          ]
+        }
+      },
+      {
+        "mayor_election": {
+          "candidates": [
+            "Joe Petry  ",
+            "Deborah Frank Feinen",
+            "Karen Foster  ",
+            "Don Gerard "
+          ],
+          "ballotsCast": [
+            "24",
+            "75",
+            "27",
+            "92"
+          ],
+          "percentages": [
+            "11.01",
+            "34.40",
+            "12.39",
+            "42.20"
+          ],
+          "party": [
+            "P",
+            "P",
+            "P",
+            "P"
+          ]
+        },
+        "precinctSummary": {
+          "registered_voters": 791,
+          "total_ballots_cast": 220,
+          "precinct_number": 31
+        },
+        "city_council_election": {
+          "candidates": [
+            "Thomas A",
+            "Matthew Gladney  ",
+            "William A"
+          ],
+          "ballotsCast": [
+            "122",
+            "110",
+            "93"
+          ],
+          "percentages": [
+            "37.54",
+            "33.85",
+            "28.62"
+          ],
+          "party": [
+            "P",
+            "P",
+            "P",
+            "P"
+          ]
+        }
+      },
+      {
+        "mayor_election": {
+          "candidates": [
+            "Joe Petry  ",
+            "Deborah Frank Feinen",
+            "Karen Foster  ",
+            "Don Gerard "
+          ],
+          "ballotsCast": [
+            "109",
+            "239",
+            "49",
+            "103"
+          ],
+          "percentages": [
+            "21.80",
+            "47.80",
+            "9.80",
+            "20.60"
+          ],
+          "party": [
+            "P",
+            "P",
+            "P",
+            "P"
+          ]
+        },
+        "precinctSummary": {
+          "registered_voters": 1098,
+          "total_ballots_cast": 508,
+          "precinct_number": 32
+        },
+        "city_council_election": {
+          "candidates": [
+            "Thomas A",
+            "Matthew Gladney  ",
+            "William A"
+          ],
+          "ballotsCast": [
+            "332",
+            "257",
+            "235"
+          ],
+          "percentages": [
+            "40.29",
+            "31.19",
+            "28.52"
+          ],
+          "party": [
+            "P",
+            "P",
+            "P",
+            "P"
+          ]
+        }
+      },
+      {
+        "mayor_election": {
+          "candidates": [
+            "Joe Petry  ",
+            "Deborah Frank Feinen",
+            "Karen Foster  ",
+            "Don Gerard "
+          ],
+          "ballotsCast": [
+            "110",
+            "289",
+            "83",
+            "142"
+          ],
+          "percentages": [
+            "17.63",
+            "46.31",
+            "13.30",
+            "22.76"
+          ],
+          "party": [
+            "P",
+            "P",
+            "P",
+            "P"
+          ]
+        },
+        "precinctSummary": {
+          "registered_voters": 1420,
+          "total_ballots_cast": 632,
+          "precinct_number": 33
+        },
+        "city_council_election": {
+          "candidates": [
+            "Thomas A",
+            "Matthew Gladney  ",
+            "William A"
+          ],
+          "ballotsCast": [
+            "421",
+            "306",
+            "293"
+          ],
+          "percentages": [
+            "41.27",
+            "30.00",
+            "28.73"
+          ],
+          "party": [
+            "P",
+            "P",
+            "P",
+            "P"
+          ]
+        }
+      },
+      {
+        "mayor_election": {
+          "candidates": [
+            "Joe Petry  ",
+            "Deborah Frank Feinen",
+            "Karen Foster  ",
+            "Don Gerard "
+          ],
+          "ballotsCast": [
+            "68",
+            "287",
+            "57",
+            "206"
+          ],
+          "percentages": [
+            "11.00",
+            "46.44",
+            "9.22",
+            "33.33"
+          ],
+          "party": [
+            "P",
+            "P",
+            "P",
+            "P"
+          ]
+        },
+        "precinctSummary": {
+          "registered_voters": 2337,
+          "total_ballots_cast": 637,
+          "precinct_number": 34
+        },
+        "city_council_election": {
+          "candidates": [
+            "Thomas A",
+            "Matthew Gladney  ",
+            "William A"
+          ],
+          "ballotsCast": [
+            "376",
+            "307",
+            "287"
+          ],
+          "percentages": [
+            "38.76",
+            "31.65",
+            "29.59"
+          ],
+          "party": [
+            "P",
+            "P",
+            "P",
+            "P"
+          ]
+        }
+      },
+      {
+        "mayor_election": {
+          "candidates": [
+            "Joe Petry  ",
+            "Deborah Frank Feinen",
+            "Karen Foster  ",
+            "Don Gerard "
+          ],
+          "ballotsCast": [
+            "60",
+            "135",
+            "46",
+            "155"
+          ],
+          "percentages": [
+            "15.15",
+            "34.09",
+            "11.62",
+            "39.14"
+          ],
+          "party": [
+            "P",
+            "P",
+            "P",
+            "P"
+          ]
+        },
+        "precinctSummary": {
+          "registered_voters": 1419,
+          "total_ballots_cast": 406,
+          "precinct_number": 35
+        },
+        "city_council_election": {
+          "candidates": [
+            "Thomas A",
+            "Matthew Gladney  ",
+            "William A"
+          ],
+          "ballotsCast": [
+            "242",
+            "203",
+            "191"
+          ],
+          "percentages": [
+            "38.05",
+            "31.92",
+            "30.03"
+          ],
+          "party": [
+            "P",
+            "P",
+            "P",
+            "P"
+          ]
+        }
+      },
+      {
+        "mayor_election": {
+          "candidates": [
+            "Joe Petry  ",
+            "Deborah Frank Feinen",
+            "Karen Foster  ",
+            "Don Gerard "
+          ],
+          "ballotsCast": [
+            "74",
+            "166",
+            "43",
+            "114"
+          ],
+          "percentages": [
+            "18.64",
+            "41.81",
+            "10.83",
+            "28.72"
+          ],
+          "party": [
+            "P",
+            "P",
+            "P",
+            "P"
+          ]
+        },
+        "precinctSummary": {
+          "registered_voters": 1057,
+          "total_ballots_cast": 408,
+          "precinct_number": 36
+        },
+        "city_council_election": {
+          "candidates": [
+            "Thomas A",
+            "Matthew Gladney  ",
+            "William A"
+          ],
+          "ballotsCast": [
+            "257",
+            "203",
+            "175"
+          ],
+          "percentages": [
+            "40.47",
+            "31.97",
+            "27.56"
+          ],
+          "party": [
+            "P",
+            "P",
+            "P",
+            "P"
+          ]
+        }
+      },
+      {
+        "mayor_election": {
+          "candidates": [
+            "Joe Petry  ",
+            "Deborah Frank Feinen",
+            "Karen Foster  ",
+            "Don Gerard "
+          ],
+          "ballotsCast": [
+            "98",
+            "200",
+            "63",
+            "154"
+          ],
+          "percentages": [
+            "19.03",
+            "38.83",
+            "12.23",
+            "29.90"
+          ],
+          "party": [
+            "P",
+            "P",
+            "P",
+            "P"
+          ]
+        },
+        "precinctSummary": {
+          "registered_voters": 1844,
+          "total_ballots_cast": 526,
+          "precinct_number": 37
+        },
+        "city_council_election": {
+          "candidates": [
+            "Thomas A",
+            "Matthew Gladney  ",
+            "William A"
+          ],
+          "ballotsCast": [
+            "330",
+            "253",
+            "236"
+          ],
+          "percentages": [
+            "40.29",
+            "30.89",
+            "28.82"
+          ],
+          "party": [
+            "P",
+            "P",
+            "P",
+            "P"
+          ]
+        }
+      },
+      {
+        "mayor_election": {
+          "candidates": [
+            "Joe Petry  ",
+            "Deborah Frank Feinen",
+            "Karen Foster  ",
+            "Don Gerard "
+          ],
+          "ballotsCast": [
+            "129",
+            "321",
+            "36",
+            "127"
+          ],
+          "percentages": [
+            "21.04",
+            "52.37",
+            "5.87",
+            "20.72"
+          ],
+          "party": [
+            "P",
+            "P",
+            "P",
+            "P"
+          ]
+        },
+        "precinctSummary": {
+          "registered_voters": 1481,
+          "total_ballots_cast": 624,
+          "precinct_number": 38
+        },
+        "city_council_election": {
+          "candidates": [
+            "Thomas A",
+            "Matthew Gladney  ",
+            "William A"
+          ],
+          "ballotsCast": [
+            "382",
+            "278",
+            "263"
+          ],
+          "percentages": [
+            "41.39",
+            "30.12",
+            "28.49"
+          ],
+          "party": [
+            "P",
+            "P",
+            "P",
+            "P"
+          ]
+        }
+      },
+      {
+        "mayor_election": {
+          "candidates": [
+            "Joe Petry  ",
+            "Deborah Frank Feinen",
+            "Karen Foster  ",
+            "Don Gerard "
+          ],
+          "ballotsCast": [
+            "51",
+            "152",
+            "14",
+            "60"
+          ],
+          "percentages": [
+            "18.41",
+            "54.87",
+            "5.05",
+            "21.66"
+          ],
+          "party": [
+            "P",
+            "P",
+            "P",
+            "P"
+          ]
+        },
+        "precinctSummary": {
+          "registered_voters": 951,
+          "total_ballots_cast": 284,
+          "precinct_number": 39
+        },
+        "city_council_election": {
+          "candidates": [
+            "Thomas A",
+            "Matthew Gladney  ",
+            "William A"
+          ],
+          "ballotsCast": [
+            "165",
+            "128",
+            "119"
+          ],
+          "percentages": [
+            "40.05",
+            "31.07",
+            "28.88"
+          ],
+          "party": [
+            "P",
+            "P",
+            "P",
+            "P"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "year": 2019,
+    "precincts": [
+      {
+        "mayor_election": {
+          "candidates": [
+            "Deborah Frank Feinen",
+            "Azark David Cobbs"
+          ],
+          "ballotsCast": [
+            "64",
+            "54"
+          ],
+          "percentages": [
+            "54.24",
+            "45.76"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        },
+        "precinctSummary": {
+          "registered_voters": 1224,
+          "total_ballots_cast": 118,
+          "precinct_number": 1
+        },
+        "city_council_election": {
+          "candidates": [
+            "Thomas A",
+            "William Kyles ",
+            "Matthew Gladney  ",
+            "Jon Paul Youakim ",
+            "Michael  J",
+            "Andrew James Christensen  ",
+            "Kenton A",
+            "Pattsi Petrie "
+          ],
+          "ballotsCast": [
+            "39",
+            "98",
+            "59",
+            "13",
+            "33",
+            "12",
+            "10",
+            "16"
+          ],
+          "percentages": [
+            "13.93",
+            "35.00",
+            "21.07",
+            "4.64",
+            "11.79",
+            "4.29",
+            "3.57",
+            "5.71"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        }
+      },
+      {
+        "mayor_election": {
+          "candidates": [
+            "Deborah Frank Feinen",
+            "Azark David Cobbs"
+          ],
+          "ballotsCast": [
+            "17",
+            "6"
+          ],
+          "percentages": [
+            "73.91",
+            "26.09"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        },
+        "precinctSummary": {
+          "registered_voters": 965,
+          "total_ballots_cast": 27,
+          "precinct_number": 2
+        },
+        "city_council_election": {
+          "candidates": [
+            "Thomas A",
+            "William Kyles ",
+            "Matthew Gladney  ",
+            "Jon Paul Youakim ",
+            "Michael  J",
+            "Andrew James Christensen  ",
+            "Kenton A",
+            "Pattsi Petrie "
+          ],
+          "ballotsCast": [
+            "4",
+            "7",
+            "9",
+            "15",
+            "4",
+            "12",
+            "4",
+            "9"
+          ],
+          "percentages": [
+            "6.25",
+            "10.94",
+            "14.06",
+            "23.44",
+            "6.25",
+            "18.75",
+            "6.25",
+            "14.06"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        }
+      },
+      {
+        "mayor_election": {
+          "candidates": [
+            "Deborah Frank Feinen",
+            "Azark David Cobbs"
+          ],
+          "ballotsCast": [
+            "24",
+            "2"
+          ],
+          "percentages": [
+            "92.31",
+            "7.69"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        },
+        "precinctSummary": {
+          "registered_voters": 1703,
+          "total_ballots_cast": 32,
+          "precinct_number": 3
+        },
+        "city_council_election": {
+          "candidates": [
+            "Thomas A",
+            "William Kyles ",
+            "Matthew Gladney  ",
+            "Jon Paul Youakim ",
+            "Michael  J",
+            "Andrew James Christensen  ",
+            "Kenton A",
+            "Pattsi Petrie "
+          ],
+          "ballotsCast": [
+            "10",
+            "6",
+            "12",
+            "8",
+            "9",
+            "8",
+            "6",
+            "8"
+          ],
+          "percentages": [
+            "14.93",
+            "8.96",
+            "17.91",
+            "11.94",
+            "13.43",
+            "11.94",
+            "8.96",
+            "11.94"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        }
+      },
+      {
+        "mayor_election": {
+          "candidates": [
+            "Deborah Frank Feinen",
+            "Azark David Cobbs"
+          ],
+          "ballotsCast": [
+            "19",
+            "5"
+          ],
+          "percentages": [
+            "79.17",
+            "20.83"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        },
+        "precinctSummary": {
+          "registered_voters": 1578,
+          "total_ballots_cast": 27,
+          "precinct_number": 4
+        },
+        "city_council_election": {
+          "candidates": [
+            "Thomas A",
+            "William Kyles ",
+            "Matthew Gladney  ",
+            "Jon Paul Youakim ",
+            "Michael  J",
+            "Andrew James Christensen  ",
+            "Kenton A",
+            "Pattsi Petrie "
+          ],
+          "ballotsCast": [
+            "12",
+            "11",
+            "9",
+            "8",
+            "6",
+            "8",
+            "2",
+            "3"
+          ],
+          "percentages": [
+            "20.34",
+            "18.64",
+            "15.25",
+            "13.56",
+            "10.17",
+            "13.56",
+            "3.39",
+            "5.08"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        }
+      },
+      {
+        "mayor_election": {
+          "candidates": [
+            "Deborah Frank Feinen",
+            "Azark David Cobbs"
+          ],
+          "ballotsCast": [
+            "23",
+            "7"
+          ],
+          "percentages": [
+            "76.67",
+            "23.33"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        },
+        "precinctSummary": {
+          "registered_voters": 2158,
+          "total_ballots_cast": 32,
+          "precinct_number": 5
+        },
+        "city_council_election": {
+          "candidates": [
+            "Thomas A",
+            "William Kyles ",
+            "Matthew Gladney  ",
+            "Jon Paul Youakim ",
+            "Michael  J",
+            "Andrew James Christensen  ",
+            "Kenton A",
+            "Pattsi Petrie "
+          ],
+          "ballotsCast": [
+            "5",
+            "6",
+            "13",
+            "17",
+            "5",
+            "14",
+            "7",
+            "12"
+          ],
+          "percentages": [
+            "6.33",
+            "7.59",
+            "16.46",
+            "21.52",
+            "6.33",
+            "17.72",
+            "8.86",
+            "15.19"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        }
+      },
+      {
+        "mayor_election": {
+          "candidates": [
+            "Deborah Frank Feinen",
+            "Azark David Cobbs"
+          ],
+          "ballotsCast": [
+            "96",
+            "40"
+          ],
+          "percentages": [
+            "70.59",
+            "29.41"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        },
+        "precinctSummary": {
+          "registered_voters": 2330,
+          "total_ballots_cast": 139,
+          "precinct_number": 6
+        },
+        "city_council_election": {
+          "candidates": [
+            "Thomas A",
+            "William Kyles ",
+            "Matthew Gladney  ",
+            "Jon Paul Youakim ",
+            "Michael  J",
+            "Andrew James Christensen  ",
+            "Kenton A",
+            "Pattsi Petrie "
+          ],
+          "ballotsCast": [
+            "50",
+            "65",
+            "64",
+            "26",
+            "31",
+            "52",
+            "21",
+            "44"
+          ],
+          "percentages": [
+            "14.16",
+            "18.41",
+            "18.13",
+            "7.37",
+            "8.78",
+            "14.73",
+            "5.95",
+            "12.46"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        }
+      },
+      {
+        "mayor_election": {
+          "candidates": [
+            "Deborah Frank Feinen",
+            "Azark David Cobbs"
+          ],
+          "ballotsCast": [
+            "9",
+            "7"
+          ],
+          "percentages": [
+            "56.25",
+            "43.75"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        },
+        "precinctSummary": {
+          "registered_voters": 1711,
+          "total_ballots_cast": 21,
+          "precinct_number": 7
+        },
+        "city_council_election": {
+          "candidates": [
+            "Thomas A",
+            "William Kyles ",
+            "Matthew Gladney  ",
+            "Jon Paul Youakim ",
+            "Michael  J",
+            "Andrew James Christensen  ",
+            "Kenton A",
+            "Pattsi Petrie "
+          ],
+          "ballotsCast": [
+            "2",
+            "6",
+            "11",
+            "9",
+            "5",
+            "10",
+            "0",
+            "2"
+          ],
+          "percentages": [
+            "4.44",
+            "13.33",
+            "24.44",
+            "20.00",
+            "11.11",
+            "22.22",
+            "0",
+            "4.44"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        }
+      },
+      {
+        "mayor_election": {
+          "candidates": [
+            "Deborah Frank Feinen",
+            "Azark David Cobbs"
+          ],
+          "ballotsCast": [
+            "13",
+            "0"
+          ],
+          "percentages": [
+            "100.00",
+            "0"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        },
+        "precinctSummary": {
+          "registered_voters": 1900,
+          "total_ballots_cast": 14,
+          "precinct_number": 8
+        },
+        "city_council_election": {
+          "candidates": [
+            "Thomas A",
+            "William Kyles ",
+            "Matthew Gladney  ",
+            "Jon Paul Youakim ",
+            "Michael  J",
+            "Andrew James Christensen  ",
+            "Kenton A",
+            "Pattsi Petrie "
+          ],
+          "ballotsCast": [
+            "2",
+            "4",
+            "5",
+            "5",
+            "4",
+            "7",
+            "2",
+            "6"
+          ],
+          "percentages": [
+            "5.71",
+            "11.43",
+            "14.29",
+            "14.29",
+            "11.43",
+            "20.00",
+            "5.71",
+            "17.14"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        }
+      },
+      {
+        "mayor_election": {
+          "candidates": [
+            "Deborah Frank Feinen",
+            "Azark David Cobbs"
+          ],
+          "ballotsCast": [
+            "57",
+            "33"
+          ],
+          "percentages": [
+            "63.33",
+            "36.67"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        },
+        "precinctSummary": {
+          "registered_voters": 1571,
+          "total_ballots_cast": 92,
+          "precinct_number": 9
+        },
+        "city_council_election": {
+          "candidates": [
+            "Thomas A",
+            "William Kyles ",
+            "Matthew Gladney  ",
+            "Jon Paul Youakim ",
+            "Michael  J",
+            "Andrew James Christensen  ",
+            "Kenton A",
+            "Pattsi Petrie "
+          ],
+          "ballotsCast": [
+            "42",
+            "51",
+            "38",
+            "16",
+            "29",
+            "15",
+            "11",
+            "25"
+          ],
+          "percentages": [
+            "18.50",
+            "22.47",
+            "16.74",
+            "7.05",
+            "12.78",
+            "6.61",
+            "4.85",
+            "11.01"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        }
+      },
+      {
+        "mayor_election": {
+          "candidates": [
+            "Deborah Frank Feinen",
+            "Azark David Cobbs"
+          ],
+          "ballotsCast": [
+            "47",
+            "26"
+          ],
+          "percentages": [
+            "64.38",
+            "35.62"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        },
+        "precinctSummary": {
+          "registered_voters": 971,
+          "total_ballots_cast": 75,
+          "precinct_number": 10
+        },
+        "city_council_election": {
+          "candidates": [
+            "Thomas A",
+            "William Kyles ",
+            "Matthew Gladney  ",
+            "Jon Paul Youakim ",
+            "Michael  J",
+            "Andrew James Christensen  ",
+            "Kenton A",
+            "Pattsi Petrie "
+          ],
+          "ballotsCast": [
+            "38",
+            "29",
+            "36",
+            "20",
+            "16",
+            "27",
+            "7",
+            "25"
+          ],
+          "percentages": [
+            "19.19",
+            "14.65",
+            "18.18",
+            "10.10",
+            "8.08",
+            "13.64",
+            "3.54",
+            "12.63"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        }
+      },
+      {
+        "mayor_election": {
+          "candidates": [
+            "Deborah Frank Feinen",
+            "Azark David Cobbs"
+          ],
+          "ballotsCast": [
+            "201",
+            "63"
+          ],
+          "percentages": [
+            "76.14",
+            "23.86"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        },
+        "precinctSummary": {
+          "registered_voters": 1653,
+          "total_ballots_cast": 279,
+          "precinct_number": 11
+        },
+        "city_council_election": {
+          "candidates": [
+            "Thomas A",
+            "William Kyles ",
+            "Matthew Gladney  ",
+            "Jon Paul Youakim ",
+            "Michael  J",
+            "Andrew James Christensen  ",
+            "Kenton A",
+            "Pattsi Petrie "
+          ],
+          "ballotsCast": [
+            "99",
+            "76",
+            "141",
+            "107",
+            "75",
+            "131",
+            "42",
+            "85"
+          ],
+          "percentages": [
+            "13.10",
+            "10.05",
+            "18.65",
+            "14.15",
+            "9.92",
+            "17.33",
+            "5.56",
+            "11.24"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        }
+      },
+      {
+        "mayor_election": {
+          "candidates": [
+            "Deborah Frank Feinen",
+            "Azark David Cobbs"
+          ],
+          "ballotsCast": [
+            "171",
+            "37"
+          ],
+          "percentages": [
+            "82.21",
+            "17.79"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        },
+        "precinctSummary": {
+          "registered_voters": 1415,
+          "total_ballots_cast": 223,
+          "precinct_number": 12
+        },
+        "city_council_election": {
+          "candidates": [
+            "Thomas A",
+            "William Kyles ",
+            "Matthew Gladney  ",
+            "Jon Paul Youakim ",
+            "Michael  J",
+            "Andrew James Christensen  ",
+            "Kenton A",
+            "Pattsi Petrie "
+          ],
+          "ballotsCast": [
+            "88",
+            "68",
+            "116",
+            "82",
+            "49",
+            "106",
+            "27",
+            "71"
+          ],
+          "percentages": [
+            "14.50",
+            "11.20",
+            "19.11",
+            "13.51",
+            "8.07",
+            "17.46",
+            "4.45",
+            "11.70"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        }
+      },
+      {
+        "mayor_election": {
+          "candidates": [
+            "Deborah Frank Feinen",
+            "Azark David Cobbs"
+          ],
+          "ballotsCast": [
+            "220",
+            "60"
+          ],
+          "percentages": [
+            "78.57",
+            "21.43"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        },
+        "precinctSummary": {
+          "registered_voters": 1325,
+          "total_ballots_cast": 303,
+          "precinct_number": 13
+        },
+        "city_council_election": {
+          "candidates": [
+            "Thomas A",
+            "William Kyles ",
+            "Matthew Gladney  ",
+            "Jon Paul Youakim ",
+            "Michael  J",
+            "Andrew James Christensen  ",
+            "Kenton A",
+            "Pattsi Petrie "
+          ],
+          "ballotsCast": [
+            "90",
+            "93",
+            "144",
+            "99",
+            "110",
+            "117",
+            "34",
+            "93"
+          ],
+          "percentages": [
+            "11.54",
+            "11.92",
+            "18.46",
+            "12.69",
+            "14.10",
+            "15.00",
+            "4.36",
+            "11.92"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        }
+      },
+      {
+        "mayor_election": {
+          "candidates": [
+            "Deborah Frank Feinen",
+            "Azark David Cobbs"
+          ],
+          "ballotsCast": [
+            "62",
+            "12"
+          ],
+          "percentages": [
+            "83.78",
+            "16.22"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        },
+        "precinctSummary": {
+          "registered_voters": 557,
+          "total_ballots_cast": 79,
+          "precinct_number": 14
+        },
+        "city_council_election": {
+          "candidates": [
+            "Thomas A",
+            "William Kyles ",
+            "Matthew Gladney  ",
+            "Jon Paul Youakim ",
+            "Michael  J",
+            "Andrew James Christensen  ",
+            "Kenton A",
+            "Pattsi Petrie "
+          ],
+          "ballotsCast": [
+            "23",
+            "29",
+            "37",
+            "26",
+            "29",
+            "33",
+            "11",
+            "18"
+          ],
+          "percentages": [
+            "11.17",
+            "14.08",
+            "17.96",
+            "12.62",
+            "14.08",
+            "16.02",
+            "5.34",
+            "8.74"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        }
+      },
+      {
+        "mayor_election": {
+          "candidates": [
+            "Deborah Frank Feinen",
+            "Azark David Cobbs"
+          ],
+          "ballotsCast": [
+            "138",
+            "25"
+          ],
+          "percentages": [
+            "84.66",
+            "15.34"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        },
+        "precinctSummary": {
+          "registered_voters": 1034,
+          "total_ballots_cast": 163,
+          "precinct_number": 15
+        },
+        "city_council_election": {
+          "candidates": [
+            "Thomas A",
+            "William Kyles ",
+            "Matthew Gladney  ",
+            "Jon Paul Youakim ",
+            "Michael  J",
+            "Andrew James Christensen  ",
+            "Kenton A",
+            "Pattsi Petrie "
+          ],
+          "ballotsCast": [
+            "68",
+            "54",
+            "64",
+            "56",
+            "46",
+            "53",
+            "14",
+            "50"
+          ],
+          "percentages": [
+            "16.79",
+            "13.33",
+            "15.80",
+            "13.83",
+            "11.36",
+            "13.09",
+            "3.46",
+            "12.35"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        }
+      },
+      {
+        "mayor_election": {
+          "candidates": [
+            "Deborah Frank Feinen",
+            "Azark David Cobbs"
+          ],
+          "ballotsCast": [
+            "150",
+            "20"
+          ],
+          "percentages": [
+            "88.24",
+            "11.76"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        },
+        "precinctSummary": {
+          "registered_voters": 715,
+          "total_ballots_cast": 173,
+          "precinct_number": 16
+        },
+        "city_council_election": {
+          "candidates": [
+            "Thomas A",
+            "William Kyles ",
+            "Matthew Gladney  ",
+            "Jon Paul Youakim ",
+            "Michael  J",
+            "Andrew James Christensen  ",
+            "Kenton A",
+            "Pattsi Petrie "
+          ],
+          "ballotsCast": [
+            "82",
+            "58",
+            "80",
+            "52",
+            "42",
+            "52",
+            "22",
+            "56"
+          ],
+          "percentages": [
+            "18.47",
+            "13.06",
+            "18.02",
+            "11.71",
+            "9.46",
+            "11.71",
+            "4.95",
+            "12.61"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        }
+      },
+      {
+        "mayor_election": {
+          "candidates": [
+            "Deborah Frank Feinen",
+            "Azark David Cobbs"
+          ],
+          "ballotsCast": [
+            "174",
+            "49"
+          ],
+          "percentages": [
+            "78.03",
+            "21.97"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        },
+        "precinctSummary": {
+          "registered_voters": 2383,
+          "total_ballots_cast": 226,
+          "precinct_number": 17
+        },
+        "city_council_election": {
+          "candidates": [
+            "Thomas A",
+            "William Kyles ",
+            "Matthew Gladney  ",
+            "Jon Paul Youakim ",
+            "Michael  J",
+            "Andrew James Christensen  ",
+            "Kenton A",
+            "Pattsi Petrie "
+          ],
+          "ballotsCast": [
+            "98",
+            "112",
+            "103",
+            "54",
+            "57",
+            "65",
+            "34",
+            "77"
+          ],
+          "percentages": [
+            "16.33",
+            "18.67",
+            "17.17",
+            "9.00",
+            "9.50",
+            "10.83",
+            "5.67",
+            "12.83"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        }
+      },
+      {
+        "mayor_election": {
+          "candidates": [
+            "Deborah Frank Feinen",
+            "Azark David Cobbs"
+          ],
+          "ballotsCast": [
+            "175",
+            "30"
+          ],
+          "percentages": [
+            "85.37",
+            "14.63"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        },
+        "precinctSummary": {
+          "registered_voters": 1432,
+          "total_ballots_cast": 208,
+          "precinct_number": 18
+        },
+        "city_council_election": {
+          "candidates": [
+            "Thomas A",
+            "William Kyles ",
+            "Matthew Gladney  ",
+            "Jon Paul Youakim ",
+            "Michael  J",
+            "Andrew James Christensen  ",
+            "Kenton A",
+            "Pattsi Petrie "
+          ],
+          "ballotsCast": [
+            "110",
+            "78",
+            "84",
+            "48",
+            "52",
+            "48",
+            "28",
+            "78"
+          ],
+          "percentages": [
+            "20.91",
+            "14.83",
+            "15.97",
+            "9.13",
+            "9.89",
+            "9.13",
+            "5.32",
+            "14.83"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        }
+      },
+      {
+        "mayor_election": {
+          "candidates": [
+            "Deborah Frank Feinen",
+            "Azark David Cobbs"
+          ],
+          "ballotsCast": [
+            "172",
+            "37"
+          ],
+          "percentages": [
+            "82.30",
+            "17.70"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        },
+        "precinctSummary": {
+          "registered_voters": 939,
+          "total_ballots_cast": 221,
+          "precinct_number": 19
+        },
+        "city_council_election": {
+          "candidates": [
+            "Thomas A",
+            "William Kyles ",
+            "Matthew Gladney  ",
+            "Jon Paul Youakim ",
+            "Michael  J",
+            "Andrew James Christensen  ",
+            "Kenton A",
+            "Pattsi Petrie "
+          ],
+          "ballotsCast": [
+            "100",
+            "65",
+            "102",
+            "92",
+            "48",
+            "76",
+            "44",
+            "56"
+          ],
+          "percentages": [
+            "17.15",
+            "11.15",
+            "17.50",
+            "15.78",
+            "8.23",
+            "13.04",
+            "7.55",
+            "9.61"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        }
+      },
+      {
+        "mayor_election": {
+          "candidates": [
+            "Deborah Frank Feinen",
+            "Azark David Cobbs"
+          ],
+          "ballotsCast": [
+            "276",
+            "47"
+          ],
+          "percentages": [
+            "85.45",
+            "14.55"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        },
+        "precinctSummary": {
+          "registered_voters": 986,
+          "total_ballots_cast": 335,
+          "precinct_number": 20
+        },
+        "city_council_election": {
+          "candidates": [
+            "Thomas A",
+            "William Kyles ",
+            "Matthew Gladney  ",
+            "Jon Paul Youakim ",
+            "Michael  J",
+            "Andrew James Christensen  ",
+            "Kenton A",
+            "Pattsi Petrie "
+          ],
+          "ballotsCast": [
+            "135",
+            "76",
+            "157",
+            "119",
+            "115",
+            "101",
+            "48",
+            "153"
+          ],
+          "percentages": [
+            "14.93",
+            "8.41",
+            "17.37",
+            "13.16",
+            "12.72",
+            "11.17",
+            "5.31",
+            "16.92"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        }
+      },
+      {
+        "mayor_election": {
+          "candidates": [
+            "Deborah Frank Feinen",
+            "Azark David Cobbs"
+          ],
+          "ballotsCast": [
+            "183",
+            "32"
+          ],
+          "percentages": [
+            "85.12",
+            "14.88"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        },
+        "precinctSummary": {
+          "registered_voters": 592,
+          "total_ballots_cast": 221,
+          "precinct_number": 21
+        },
+        "city_council_election": {
+          "candidates": [
+            "Thomas A",
+            "William Kyles ",
+            "Matthew Gladney  ",
+            "Jon Paul Youakim ",
+            "Michael  J",
+            "Andrew James Christensen  ",
+            "Kenton A",
+            "Pattsi Petrie "
+          ],
+          "ballotsCast": [
+            "105",
+            "66",
+            "97",
+            "89",
+            "69",
+            "71",
+            "19",
+            "70"
+          ],
+          "percentages": [
+            "17.92",
+            "11.26",
+            "16.55",
+            "15.19",
+            "11.77",
+            "12.12",
+            "3.24",
+            "11.95"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        }
+      },
+      {
+        "mayor_election": {
+          "candidates": [
+            "Deborah Frank Feinen",
+            "Azark David Cobbs"
+          ],
+          "ballotsCast": [
+            "122",
+            "18"
+          ],
+          "percentages": [
+            "87.14",
+            "12.86"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        },
+        "precinctSummary": {
+          "registered_voters": 414,
+          "total_ballots_cast": 143,
+          "precinct_number": 22
+        },
+        "city_council_election": {
+          "candidates": [
+            "Thomas A",
+            "William Kyles ",
+            "Matthew Gladney  ",
+            "Jon Paul Youakim ",
+            "Michael  J",
+            "Andrew James Christensen  ",
+            "Kenton A",
+            "Pattsi Petrie "
+          ],
+          "ballotsCast": [
+            "81",
+            "40",
+            "72",
+            "54",
+            "49",
+            "29",
+            "13",
+            "41"
+          ],
+          "percentages": [
+            "21.37",
+            "10.55",
+            "19.00",
+            "14.25",
+            "12.93",
+            "7.65",
+            "3.43",
+            "10.82"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        }
+      },
+      {
+        "mayor_election": {
+          "candidates": [
+            "Deborah Frank Feinen",
+            "Azark David Cobbs"
+          ],
+          "ballotsCast": [
+            "127",
+            "17"
+          ],
+          "percentages": [
+            "88.19",
+            "11.81"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        },
+        "precinctSummary": {
+          "registered_voters": 523,
+          "total_ballots_cast": 147,
+          "precinct_number": 23
+        },
+        "city_council_election": {
+          "candidates": [
+            "Thomas A",
+            "William Kyles ",
+            "Matthew Gladney  ",
+            "Jon Paul Youakim ",
+            "Michael  J",
+            "Andrew James Christensen  ",
+            "Kenton A",
+            "Pattsi Petrie "
+          ],
+          "ballotsCast": [
+            "71",
+            "58",
+            "81",
+            "29",
+            "39",
+            "31",
+            "15",
+            "48"
+          ],
+          "percentages": [
+            "19.09",
+            "15.59",
+            "21.77",
+            "7.80",
+            "10.48",
+            "8.33",
+            "4.03",
+            "12.90"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        }
+      },
+      {
+        "mayor_election": {
+          "candidates": [
+            "Deborah Frank Feinen",
+            "Azark David Cobbs"
+          ],
+          "ballotsCast": [
+            "419",
+            "43"
+          ],
+          "percentages": [
+            "90.69",
+            "9.31"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        },
+        "precinctSummary": {
+          "registered_voters": 1665,
+          "total_ballots_cast": 473,
+          "precinct_number": 24
+        },
+        "city_council_election": {
+          "candidates": [
+            "Thomas A",
+            "William Kyles ",
+            "Matthew Gladney  ",
+            "Jon Paul Youakim ",
+            "Michael  J",
+            "Andrew James Christensen  ",
+            "Kenton A",
+            "Pattsi Petrie "
+          ],
+          "ballotsCast": [
+            "304",
+            "148",
+            "224",
+            "123",
+            "124",
+            "81",
+            "71",
+            "144"
+          ],
+          "percentages": [
+            "24.94",
+            "12.14",
+            "18.38",
+            "10.09",
+            "10.17",
+            "6.64",
+            "5.82",
+            "11.81"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        }
+      },
+      {
+        "mayor_election": {
+          "candidates": [
+            "Deborah Frank Feinen",
+            "Azark David Cobbs"
+          ],
+          "ballotsCast": [
+            "145",
+            "19"
+          ],
+          "percentages": [
+            "88.41",
+            "11.59"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        },
+        "precinctSummary": {
+          "registered_voters": 738,
+          "total_ballots_cast": 171,
+          "precinct_number": 25
+        },
+        "city_council_election": {
+          "candidates": [
+            "Thomas A",
+            "William Kyles ",
+            "Matthew Gladney  ",
+            "Jon Paul Youakim ",
+            "Michael  J",
+            "Andrew James Christensen  ",
+            "Kenton A",
+            "Pattsi Petrie "
+          ],
+          "ballotsCast": [
+            "93",
+            "50",
+            "75",
+            "54",
+            "40",
+            "64",
+            "15",
+            "57"
+          ],
+          "percentages": [
+            "20.76",
+            "11.16",
+            "16.74",
+            "12.05",
+            "8.93",
+            "14.29",
+            "3.35",
+            "12.72"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        }
+      },
+      {
+        "mayor_election": {
+          "candidates": [
+            "Deborah Frank Feinen",
+            "Azark David Cobbs"
+          ],
+          "ballotsCast": [
+            "178",
+            "34"
+          ],
+          "percentages": [
+            "83.96",
+            "16.04"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        },
+        "precinctSummary": {
+          "registered_voters": 1112,
+          "total_ballots_cast": 218,
+          "precinct_number": 26
+        },
+        "city_council_election": {
+          "candidates": [
+            "Thomas A",
+            "William Kyles ",
+            "Matthew Gladney  ",
+            "Jon Paul Youakim ",
+            "Michael  J",
+            "Andrew James Christensen  ",
+            "Kenton A",
+            "Pattsi Petrie "
+          ],
+          "ballotsCast": [
+            "106",
+            "71",
+            "95",
+            "56",
+            "51",
+            "63",
+            "30",
+            "92"
+          ],
+          "percentages": [
+            "18.79",
+            "12.59",
+            "16.84",
+            "9.93",
+            "9.04",
+            "11.17",
+            "5.32",
+            "16.31"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        }
+      },
+      {
+        "mayor_election": {
+          "candidates": [
+            "Deborah Frank Feinen",
+            "Azark David Cobbs"
+          ],
+          "ballotsCast": [
+            "132",
+            "17"
+          ],
+          "percentages": [
+            "88.59",
+            "11.41"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        },
+        "precinctSummary": {
+          "registered_voters": 617,
+          "total_ballots_cast": 152,
+          "precinct_number": 27
+        },
+        "city_council_election": {
+          "candidates": [
+            "Thomas A",
+            "William Kyles ",
+            "Matthew Gladney  ",
+            "Jon Paul Youakim ",
+            "Michael  J",
+            "Andrew James Christensen  ",
+            "Kenton A",
+            "Pattsi Petrie "
+          ],
+          "ballotsCast": [
+            "73",
+            "43",
+            "66",
+            "45",
+            "43",
+            "40",
+            "14",
+            "48"
+          ],
+          "percentages": [
+            "19.62",
+            "11.56",
+            "17.74",
+            "12.10",
+            "11.56",
+            "10.75",
+            "3.76",
+            "12.90"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        }
+      },
+      {
+        "mayor_election": {
+          "candidates": [
+            "Deborah Frank Feinen",
+            "Azark David Cobbs"
+          ],
+          "ballotsCast": [
+            "80",
+            "14"
+          ],
+          "percentages": [
+            "85.11",
+            "14.89"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        },
+        "precinctSummary": {
+          "registered_voters": 468,
+          "total_ballots_cast": 97,
+          "precinct_number": 28
+        },
+        "city_council_election": {
+          "candidates": [
+            "Thomas A",
+            "William Kyles ",
+            "Matthew Gladney  ",
+            "Jon Paul Youakim ",
+            "Michael  J",
+            "Andrew James Christensen  ",
+            "Kenton A",
+            "Pattsi Petrie "
+          ],
+          "ballotsCast": [
+            "44",
+            "28",
+            "46",
+            "35",
+            "21",
+            "36",
+            "11",
+            "33"
+          ],
+          "percentages": [
+            "17.32",
+            "11.02",
+            "18.11",
+            "13.78",
+            "8.27",
+            "14.17",
+            "4.33",
+            "12.99"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        }
+      },
+      {
+        "mayor_election": {
+          "candidates": [
+            "Deborah Frank Feinen",
+            "Azark David Cobbs"
+          ],
+          "ballotsCast": [
+            "118",
+            "4"
+          ],
+          "percentages": [
+            "96.72",
+            "3.28"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        },
+        "precinctSummary": {
+          "registered_voters": 719,
+          "total_ballots_cast": 128,
+          "precinct_number": 29
+        },
+        "city_council_election": {
+          "candidates": [
+            "Thomas A",
+            "William Kyles ",
+            "Matthew Gladney  ",
+            "Jon Paul Youakim ",
+            "Michael  J",
+            "Andrew James Christensen  ",
+            "Kenton A",
+            "Pattsi Petrie "
+          ],
+          "ballotsCast": [
+            "71",
+            "56",
+            "65",
+            "26",
+            "28",
+            "22",
+            "14",
+            "42"
+          ],
+          "percentages": [
+            "21.91",
+            "17.28",
+            "20.06",
+            "8.02",
+            "8.64",
+            "6.79",
+            "4.32",
+            "12.96"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        }
+      },
+      {
+        "mayor_election": {
+          "candidates": [
+            "Deborah Frank Feinen",
+            "Azark David Cobbs"
+          ],
+          "ballotsCast": [
+            "57",
+            "15"
+          ],
+          "percentages": [
+            "79.17",
+            "20.83"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        },
+        "precinctSummary": {
+          "registered_voters": 1192,
+          "total_ballots_cast": 74,
+          "precinct_number": 30
+        },
+        "city_council_election": {
+          "candidates": [
+            "Thomas A",
+            "William Kyles ",
+            "Matthew Gladney  ",
+            "Jon Paul Youakim ",
+            "Michael  J",
+            "Andrew James Christensen  ",
+            "Kenton A",
+            "Pattsi Petrie "
+          ],
+          "ballotsCast": [
+            "29",
+            "30",
+            "26",
+            "12",
+            "21",
+            "18",
+            "14",
+            "30"
+          ],
+          "percentages": [
+            "16.11",
+            "16.67",
+            "14.44",
+            "6.67",
+            "11.67",
+            "10.00",
+            "7.78",
+            "16.67"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        }
+      },
+      {
+        "mayor_election": {
+          "candidates": [
+            "Deborah Frank Feinen",
+            "Azark David Cobbs"
+          ],
+          "ballotsCast": [
+            "91",
+            "29"
+          ],
+          "percentages": [
+            "75.83",
+            "24.17"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        },
+        "precinctSummary": {
+          "registered_voters": 916,
+          "total_ballots_cast": 128,
+          "precinct_number": 31
+        },
+        "city_council_election": {
+          "candidates": [
+            "Thomas A",
+            "William Kyles ",
+            "Matthew Gladney  ",
+            "Jon Paul Youakim ",
+            "Michael  J",
+            "Andrew James Christensen  ",
+            "Kenton A",
+            "Pattsi Petrie "
+          ],
+          "ballotsCast": [
+            "52",
+            "48",
+            "59",
+            "36",
+            "36",
+            "39",
+            "22",
+            "40"
+          ],
+          "percentages": [
+            "15.66",
+            "14.46",
+            "17.77",
+            "10.84",
+            "10.84",
+            "11.75",
+            "6.63",
+            "12.05"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        }
+      },
+      {
+        "mayor_election": {
+          "candidates": [
+            "Deborah Frank Feinen",
+            "Azark David Cobbs"
+          ],
+          "ballotsCast": [
+            "267",
+            "25"
+          ],
+          "percentages": [
+            "91.44",
+            "8.56"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        },
+        "precinctSummary": {
+          "registered_voters": 1127,
+          "total_ballots_cast": 299,
+          "precinct_number": 32
+        },
+        "city_council_election": {
+          "candidates": [
+            "Thomas A",
+            "William Kyles ",
+            "Matthew Gladney  ",
+            "Jon Paul Youakim ",
+            "Michael  J",
+            "Andrew James Christensen  ",
+            "Kenton A",
+            "Pattsi Petrie "
+          ],
+          "ballotsCast": [
+            "178",
+            "111",
+            "163",
+            "75",
+            "77",
+            "72",
+            "23",
+            "74"
+          ],
+          "percentages": [
+            "23.03",
+            "14.36",
+            "21.09",
+            "9.70",
+            "9.96",
+            "9.31",
+            "2.98",
+            "9.57"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        }
+      },
+      {
+        "mayor_election": {
+          "candidates": [
+            "Deborah Frank Feinen",
+            "Azark David Cobbs"
+          ],
+          "ballotsCast": [
+            "288",
+            "39"
+          ],
+          "percentages": [
+            "88.07",
+            "11.93"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        },
+        "precinctSummary": {
+          "registered_voters": 1439,
+          "total_ballots_cast": 337,
+          "precinct_number": 33
+        },
+        "city_council_election": {
+          "candidates": [
+            "Thomas A",
+            "William Kyles ",
+            "Matthew Gladney  ",
+            "Jon Paul Youakim ",
+            "Michael  J",
+            "Andrew James Christensen  ",
+            "Kenton A",
+            "Pattsi Petrie "
+          ],
+          "ballotsCast": [
+            "199",
+            "128",
+            "144",
+            "75",
+            "77",
+            "72",
+            "35",
+            "106"
+          ],
+          "percentages": [
+            "23.80",
+            "15.31",
+            "17.22",
+            "8.97",
+            "9.21",
+            "8.61",
+            "4.19",
+            "12.68"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        }
+      },
+      {
+        "mayor_election": {
+          "candidates": [
+            "Deborah Frank Feinen",
+            "Azark David Cobbs"
+          ],
+          "ballotsCast": [
+            "319",
+            "55"
+          ],
+          "percentages": [
+            "85.29",
+            "14.71"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        },
+        "precinctSummary": {
+          "registered_voters": 2931,
+          "total_ballots_cast": 379,
+          "precinct_number": 34
+        },
+        "city_council_election": {
+          "candidates": [
+            "Thomas A",
+            "William Kyles ",
+            "Matthew Gladney  ",
+            "Jon Paul Youakim ",
+            "Michael  J",
+            "Andrew James Christensen  ",
+            "Kenton A",
+            "Pattsi Petrie "
+          ],
+          "ballotsCast": [
+            "180",
+            "166",
+            "162",
+            "107",
+            "88",
+            "83",
+            "59",
+            "103"
+          ],
+          "percentages": [
+            "18.99",
+            "17.51",
+            "17.09",
+            "11.29",
+            "9.28",
+            "8.76",
+            "6.22",
+            "10.86"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        }
+      },
+      {
+        "mayor_election": {
+          "candidates": [
+            "Deborah Frank Feinen",
+            "Azark David Cobbs"
+          ],
+          "ballotsCast": [
+            "166",
+            "47"
+          ],
+          "percentages": [
+            "77.93",
+            "22.07"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        },
+        "precinctSummary": {
+          "registered_voters": 1522,
+          "total_ballots_cast": 221,
+          "precinct_number": 35
+        },
+        "city_council_election": {
+          "candidates": [
+            "Thomas A",
+            "William Kyles ",
+            "Matthew Gladney  ",
+            "Jon Paul Youakim ",
+            "Michael  J",
+            "Andrew James Christensen  ",
+            "Kenton A",
+            "Pattsi Petrie "
+          ],
+          "ballotsCast": [
+            "99",
+            "84",
+            "92",
+            "59",
+            "43",
+            "52",
+            "32",
+            "71"
+          ],
+          "percentages": [
+            "18.61",
+            "15.79",
+            "17.29",
+            "11.09",
+            "8.08",
+            "9.77",
+            "6.02",
+            "13.35"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        }
+      },
+      {
+        "mayor_election": {
+          "candidates": [
+            "Deborah Frank Feinen",
+            "Azark David Cobbs"
+          ],
+          "ballotsCast": [
+            "201",
+            "20"
+          ],
+          "percentages": [
+            "90.95",
+            "9.05"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        },
+        "precinctSummary": {
+          "registered_voters": 1099,
+          "total_ballots_cast": 229,
+          "precinct_number": 36
+        },
+        "city_council_election": {
+          "candidates": [
+            "Thomas A",
+            "William Kyles ",
+            "Matthew Gladney  ",
+            "Jon Paul Youakim ",
+            "Michael  J",
+            "Andrew James Christensen  ",
+            "Kenton A",
+            "Pattsi Petrie "
+          ],
+          "ballotsCast": [
+            "128",
+            "77",
+            "120",
+            "70",
+            "55",
+            "62",
+            "29",
+            "62"
+          ],
+          "percentages": [
+            "21.23",
+            "12.77",
+            "19.90",
+            "11.61",
+            "9.12",
+            "10.28",
+            "4.81",
+            "10.28"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        }
+      },
+      {
+        "mayor_election": {
+          "candidates": [
+            "Deborah Frank Feinen",
+            "Azark David Cobbs"
+          ],
+          "ballotsCast": [
+            "242",
+            "60"
+          ],
+          "percentages": [
+            "80.13",
+            "19.87"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        },
+        "precinctSummary": {
+          "registered_voters": 2255,
+          "total_ballots_cast": 311,
+          "precinct_number": 37
+        },
+        "city_council_election": {
+          "candidates": [
+            "Thomas A",
+            "William Kyles ",
+            "Matthew Gladney  ",
+            "Jon Paul Youakim ",
+            "Michael  J",
+            "Andrew James Christensen  ",
+            "Kenton A",
+            "Pattsi Petrie "
+          ],
+          "ballotsCast": [
+            "147",
+            "111",
+            "121",
+            "82",
+            "88",
+            "71",
+            "33",
+            "107"
+          ],
+          "percentages": [
+            "19.34",
+            "14.61",
+            "15.92",
+            "10.79",
+            "11.58",
+            "9.34",
+            "4.34",
+            "14.08"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        }
+      },
+      {
+        "mayor_election": {
+          "candidates": [
+            "Deborah Frank Feinen",
+            "Azark David Cobbs"
+          ],
+          "ballotsCast": [
+            "343",
+            "36"
+          ],
+          "percentages": [
+            "90.50",
+            "9.50"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        },
+        "precinctSummary": {
+          "registered_voters": 1661,
+          "total_ballots_cast": 389,
+          "precinct_number": 38
+        },
+        "city_council_election": {
+          "candidates": [
+            "Thomas A",
+            "William Kyles ",
+            "Matthew Gladney  ",
+            "Jon Paul Youakim ",
+            "Michael  J",
+            "Andrew James Christensen  ",
+            "Kenton A",
+            "Pattsi Petrie "
+          ],
+          "ballotsCast": [
+            "218",
+            "140",
+            "160",
+            "108",
+            "81",
+            "76",
+            "23",
+            "117"
+          ],
+          "percentages": [
+            "23.62",
+            "15.17",
+            "17.33",
+            "11.70",
+            "8.78",
+            "8.23",
+            "2.49",
+            "12.68"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        }
+      },
+      {
+        "mayor_election": {
+          "candidates": [
+            "Deborah Frank Feinen",
+            "Azark David Cobbs"
+          ],
+          "ballotsCast": [
+            "143",
+            "13"
+          ],
+          "percentages": [
+            "91.67",
+            "8.33"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        },
+        "precinctSummary": {
+          "registered_voters": 1341,
+          "total_ballots_cast": 158,
+          "precinct_number": 39
+        },
+        "city_council_election": {
+          "candidates": [
+            "Thomas A",
+            "William Kyles ",
+            "Matthew Gladney  ",
+            "Jon Paul Youakim ",
+            "Michael  J",
+            "Andrew James Christensen  ",
+            "Kenton A",
+            "Pattsi Petrie "
+          ],
+          "ballotsCast": [
+            "84",
+            "56",
+            "81",
+            "41",
+            "25",
+            "49",
+            "17",
+            "36"
+          ],
+          "percentages": [
+            "21.59",
+            "14.40",
+            "20.82",
+            "10.54",
+            "6.43",
+            "12.60",
+            "4.37",
+            "9.25"
+          ],
+          "party": [
+            "P",
+            "P"
+          ]
+        }
+      }
+    ]
+  }
+]
