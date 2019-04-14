@@ -27,6 +27,13 @@ data-driven graphics.
   Click Me.
 [/button]
 
+// NOTE: this file has to be named map-custom-d3-component.js... for reasons... */
+[MapCustomD3Component className:"d3-component" state:state /]
+[button onClick:`state++`]
+  Click Me.
+[/button] 
+
+
 Configuration can be done via the `idyll` field in `package.json`.
 
 ## Markup
