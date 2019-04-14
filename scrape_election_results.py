@@ -10,7 +10,10 @@ saveFilejson = '/Users/jillnaiman1/champaignElection/data/election_results.json'
 
 # for debugging
 import sys
+import re
+from datetime import datetime
 
+# main page:
 w = 'https://champaigncountyclerk.com/elections/results/history'
 # see what we have available
 # parse
@@ -18,12 +21,8 @@ page = requests.get(w)
 soup = bs4.BeautifulSoup(page.text, 'html.parser')
 soup = str(soup)
 
-# cull
+# cull to champaign precincts
 soup2 = soup.split('The following are archived election results for Champaign County')[1]
-
-# split into precents
-#soup3 = soup2.split('Precinct Results')
-
 
 # look for precent ids
 soup3 = soup2.split('/elections/results/precinct?ID=')
@@ -33,11 +32,8 @@ precentNums = []
 for s in soup3:
     precentNums.append( s.split('">')[0] )
 
-import re
-#>>> re.split('; |, |\*|\n',a)
-
-from datetime import datetime
-
+    
+# for to store!
 dates = []
 precincts = []
 regVoters = []
@@ -48,14 +44,9 @@ ballotsCastCityCouncil = []
 ballotsCastMayor = []
 percentagesCastCityCouncil = []
 percentagesCastMayor = []
-# At Large or At-Large are the champaign wide ones
-# mayor?
 
-import re
 
-#electionResults = { 
-
-icount = 0
+#icount = 0 # for debugging
 
 # go to individual webpages
 for p in precentNums:
@@ -117,7 +108,7 @@ for p in precentNums:
                 xs = re.split(endCharSplit,soup3)
 
                 # this is now the page for individual election results
-                icount += 1
+                #icount += 1 # for debugging
 
                 # loop and grab important things
                 istart1 = 100000000
@@ -138,7 +129,6 @@ for p in precentNums:
 
                         d2 = d[0] +' ' + d[1] + d[2]
                         print('Date of election: ', d2)
-                        #s = "8 March, 2017"
                         dt = datetime.strptime(d2, '%B %d,%Y')
                         dates.append(dt)
                         dateCheck = True
@@ -171,7 +161,7 @@ for p in precentNums:
                             if inLoop1 and endLoop1:
                                 inLoop2 = True
                                 inLoop1 = False
-                                namesOfCandidatesCityCouncil.append([]) ### HERE: THIS IS GETTING OVER WRITTEN
+                                namesOfCandidatesCityCouncil.append([]) 
                                 ballotsCastCityCouncil.append([])
                                 percentagesCastCityCouncil.append([])
 
@@ -190,19 +180,11 @@ for p in precentNums:
                             # are we at the end of the loop
                             if x.find('\r\n\r\n') != -1:
                                 endLoop1 = True
-                            # for other ones
-                            #if i < len(xs)-1:
-                            #    if xs[i+1].find('Council Member') != -1: # for earlier years
-                            #        endLoop1 = True
-                            # for other years, different formats
-                           # if re.search('under votes', x, re.IGNORECASE): endLoop1 = True
                             
-                            # look for under votes
+                            # look for under votes -> sometimes we need this instead as the
+                            #  end loop thing
                             if re.search('Under Votes',x,re.IGNORECASE): endLoop1=True
-                            #if w2.find('https://champaigncountyclerk.com/elections/results/2011/docs/apr/PREC0401.HTM') != -1:
-                            #    sys.exit()
 
-                            #if endLoop1: print('end of loop1')
                         if inLoop2 and endLoop1 and not endLoop2: # city council
                             # look for dots
                             if x.find('. ') != -1:
@@ -318,6 +300,7 @@ import json
 
 
 # for weird integers in numpy
+# source: https://stackoverflow.com/questions/11942364/typeerror-integer-is-not-json-serializable-when-serializing-json-in-python
 def default(o):
     if isinstance(o, np.int64): return int(o)  
     raise TypeError
