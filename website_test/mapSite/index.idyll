@@ -3,8 +3,8 @@
 [Header
   fullWidth:true
   title:"MapSite"
-  subtitle:"Welcome to Idyll. Open index.idyll to start writing"
-  author:"Your Name Here"
+  subtitle:"Messing around with interactive maps"
+  author:"OpenChampaign Project, or name TBD"
   authorLink:"https://idyll-lang.org"
   date:`(new Date()).toDateString()`
   background:"#222222"
@@ -13,20 +13,16 @@
 
 ## Introduction
 
-This is an Idyll post. It is generated via
-the file `index.idyll`. To compile this post using
-idyll, run the commnad `idyll` inside of this directory.
+Here we're just messing around to try to get interactive maps to work with some custom d3.js scripts.  Bless our hearts.
 
 
-Idyll posts are designed to support interaction and
-data-driven graphics.
+### US Map
 
-// [var name:"color" value:"#000" /]
-// [Force nodeColor:`color` /] 
+To get this to work I had to include the topojson-client in the requirements of the custom module and I had to update the style.css sheet so that the boarders showed up all pretty like.
 
-// NOTE: this file has to be named map-custom-d3-component.js... for reasons... */
-[MapCustomD3Component className:"d3-component" /]
+This is following the docs for [v4 d3.js maps](https://bl.ocks.org/mbostock/4090848).
+
+[Map2CustomD3Component className:"d3-component" /]
 
 
-Configuration can be done via the `idyll` field in `package.json`.
 
