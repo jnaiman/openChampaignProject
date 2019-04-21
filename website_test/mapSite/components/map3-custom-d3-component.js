@@ -27,32 +27,34 @@ class Map3CustomD3Component extends D3Component {
 	var path = d3.geoPath();
 	
 	
-	d3.json("https://raw.githubusercontent.com/jnaiman/openChampaignProject/master/data/map_data/City_Council_Districts.json", function(error, us) {
+	d3.json("https://raw.githubusercontent.com/jnaiman/openChampaignProject/master/data/map_data/City_Council_Districts_topojson.json", function(error, us) {
 	    if (error) throw error;
 
 	    // store features from shp file -> json
-	    var boarders = {};
+	    //var boarders = {};
 
 	    // us.features.forEach
-	    console.log(us.features.objects)
+	    //console.log(us.features.objects)
             //us.features.forEach( function(d) { boarders[d.properties.District] = d.geometry;
 	//				       console.log(boarders[d.properties.District]);
 	//				     });
 	    //console.log(us.features)
+
+	    console.log(us.objects.City_Council_Districts)
 	    
 	    svg.append("g")
-		.attr("class", "states")
+		.attr("class", "region")
 		//.attr("class", "coordinates")
 		.selectAll("path")
 		//.data(topojson.feature(us, us.objects.states).features)
-		.data(topojson.feature(us, us.features).features)
+		.data(topojson.feature(us, us.objects.City_Council_Districts).features)
 		.enter().append("path")
 		.attr("d", path);
 
 	    
 	    svg.append("path")
 		.attr("class", "state-borders")
-		.attr("d", path(topojson.mesh(us, us.features, function(a, b) { return a !== b; })));
+		.attr("d", path(topojson.mesh(us, us.objects.City_Council_Districts, function(a, b) { return a !== b; })));
 	});
 
     }
