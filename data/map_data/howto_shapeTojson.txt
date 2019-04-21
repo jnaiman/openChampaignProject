@@ -1,0 +1,2 @@
+brew install gdal
+ogr2ogr -f geoJSON City_Council_Districts.json City_Council_Districts.shp
