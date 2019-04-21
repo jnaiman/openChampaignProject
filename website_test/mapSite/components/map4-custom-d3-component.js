@@ -40,11 +40,11 @@ class Map4CustomD3Component extends D3Component {
 	    //console.log(us.objects.City_Council_Districts)
 	    //console.log(us)
 
-	    var center = d3.geoCentroid(us.transform.translate);
-	    var scale  = 150;
-	    var offset = [width/2, height/2];
-	    var projection = d3.geoMercator().scale(scale).center(center)
-		.translate(offset);
+	    //var center = d3.geoCentroid(us.transform.translate);
+	    //var scale  = 150;
+	    //var offset = [width/2, height/2];
+	    //var projection = d3.geoAlbers().scale(scale).center(center)
+	//	.translate(offset);
 
 	    //console.log(center, scale, offset);
 	    
@@ -57,22 +57,24 @@ class Map4CustomD3Component extends D3Component {
 	    // using the path determine the bounds of the current map and use 
 	    // these to determine better values for the scale and translation
 	    //var bounds  = path.bounds(us);
-	    var bounds = us.bbox;
+	    //var bounds = us.bbox;
 	    //console.log(bounds[0]);
-	    var hscale  = scale*width  / (bounds[0] - bounds[2]);
+	    //var hscale  = scale*width  / (bounds[0] - bounds[2]);
 	    //console.log(hscale);
-	    var vscale  = scale*height / (bounds[1] - bounds[3]);
-	    var scale   = (hscale < vscale) ? hscale : vscale;
-	    var offset  = [width - (bounds[2] + bounds[0])/2,
-                           height - (bounds[3] + bounds[1])/2];
+	    //var vscale  = scale*height / (bounds[1] - bounds[3]);
+	    //var scale   = (hscale < vscale) ? hscale : vscale;
+	    //var offset  = [width - (bounds[2] + bounds[0])/2,
+             //              height - (bounds[3] + bounds[1])/2];
 
-	    console.log(hscale, vscale, scale,offset);
+	    //console.log(hscale, vscale, scale,offset);
 	    // new projection
 	    // HERE: this at least prints something but it looks all wrong
-	    projection = d3.geoMercator().center(us.transform.translate)
-		.scale(500000).translate(us.transform.translate);
-	    path = path.projection(projection);
+	    //var projection = d3.geoAlbers().center([-81,40])
+	//	.scale(1).translate([-81,40]);
+	    //  var path = path.projection(projection);
 
+	    var projection = d3.geoAlbers();
+	    var path = d3.geoPath().projection(projection);
 	    
 	    svg.append("g")
 		.attr("class", "states")
