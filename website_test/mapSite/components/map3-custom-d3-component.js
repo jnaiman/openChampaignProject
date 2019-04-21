@@ -24,7 +24,15 @@ class Map3CustomD3Component extends D3Component {
 	var width = node.getBoundingClientRect().width;
 	var height = width;
 	
-	var path = d3.geoPath();
+	//var path = d3.geoPath();
+
+	var projection = d3.geoMercator()
+	    .center([40.1164, 88.2434])
+	    .scale(400000)
+	    .translate([width / 2, height / 2])
+	
+	var path = d3.geoPath().projection(projection);
+
 	
 	
 	d3.json("https://raw.githubusercontent.com/jnaiman/openChampaignProject/master/data/map_data/City_Council_Districts_topojson.json", function(error, us) {
@@ -41,6 +49,8 @@ class Map3CustomD3Component extends D3Component {
 	    //console.log(us.features)
 
 	    console.log(us.objects.City_Council_Districts)
+
+
 	    
 	    svg.append("g")
 		.attr("class", "region")

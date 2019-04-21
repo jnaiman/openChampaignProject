@@ -24,6 +24,6 @@ This is following the docs for [v4 d3.js maps](https://bl.ocks.org/mbostock/4090
 
 // [Map2CustomD3Component className:"d3-component" /] //*/
 
-[Map3CustomD3Component className:"d3-component" /]
+[Map4CustomD3Component className:"d3-component" /]
 
 
