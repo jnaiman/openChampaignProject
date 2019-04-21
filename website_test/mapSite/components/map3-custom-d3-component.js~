@@ -6,7 +6,7 @@ const topojson = require('topojson-client'); // Need this for map
 //var mapurl = "https://d3js.org/us-10m.v1.json";
 
 
-class Map2CustomD3Component extends D3Component {
+class Map3CustomD3Component extends D3Component {
 
     initialize(node, props) {
 
@@ -27,11 +27,9 @@ class Map2CustomD3Component extends D3Component {
 	var path = d3.geoPath();
 	
 	
-	d3.json("https://d3js.org/us-10m.v1.json", function(error, us) {
+	d3.json("https://raw.githubusercontent.com/jnaiman/openChampaignProject/master/data/map_data/City_Council_Districts.json", function(error, us) {
 	    if (error) throw error;
-
-	    console.log(us)
-
+	    
 	    svg.append("g")
 		.attr("class", "states")
 		.selectAll("path")
@@ -55,4 +53,4 @@ class Map2CustomD3Component extends D3Component {
     }
 }
 
-module.exports = Map2CustomD3Component;
+module.exports = Map3CustomD3Component;
