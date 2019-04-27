@@ -34,7 +34,7 @@ class Map2CustomD3Component extends D3Component {
 	d3.json("https://d3js.org/us-10m.v1.json", function(error, us) {
 	    if (error) throw error;
 
-	    console.log(us.objects.states)
+	    //console.log(us.objects.states)
 
 	    svg.append("g")
 		.attr("class", "states")

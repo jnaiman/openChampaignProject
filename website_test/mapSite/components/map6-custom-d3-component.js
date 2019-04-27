@@ -70,27 +70,26 @@ class Map6CustomD3Component extends D3Component {
 	svg.call(tip);
 
 	d3.queue() // JPN: had to change queue -> d3.queue()
-	//.defer(d3.json, "https://raw.githubusercontent.com/jdamiani27/Data-Visualization-and-D3/master/lesson4/world_countries.json")
 	    .defer(d3.json,"https://raw.githubusercontent.com/jnaiman/openChampaignProject/master/data/map_data/City_Council_Districts_topojson_3.json")
 	    .defer(d3.json, "https://raw.githubusercontent.com/jnaiman/corgWebsiteBuild/master/data/corgiData_countries.json")
 	    .await(ready);
 
 	function ready(error, data, population) {
 	    if (error) throw error;
-	    var corgPopulationById = {};
 
-	    // neg to pos
+
+	    //console.log(data.objects.City_Council_Districts);
 	    //data.objects.City_Council_Districts.forEach( function(d) { d; });
 	    //data.objects.City_Council_Districts.forEach( function(d) {console.log(d);} );
 	    
 	    svg.append("g")
-		//.attr("class", "countries")
+		.attr("class", "states")
 		.selectAll("path")
-		.data(data.objects.City_Council_Districts)
+		.data(topojson.feature(data,data.objects.City_Council_Districts).features)
 		.enter().append("path")
-		.attr("d", path)
-		//.style("fill", 'red')
-		//.style('stroke', 'red');
+		.attr("d", path);
+		//.style("fill", 'green')
+		//.style('stroke', 'blue');
 		//.style('stroke-width', 1.5)
 		//.style("opacity",0.8);
 	
@@ -114,13 +113,13 @@ class Map6CustomD3Component extends D3Component {
 	//	});
 	    
 	    svg.append("path")
-		//.datum(topojson.mesh(data.objects.City_Council_Districts, function(a, b) { return a !== b; }))
-	        //.datum(topojson.mesh(data, data.objects.City_Council_Districts, (a, b) => a !== b))
-	        .datum(topojson.feature(data,data.objects.City_Council_Districts)) // had to use feature not mesh?
-		.attr("d", path)
-		//.attr('class','mesh')
-	    	.style("fill", 'blue')
-		.style('stroke', 'red');
+	    	.attr("class", "state-borders")
+	        //.datum(topojson.mesh(data,data.objects.City_Council_Districts)) // had to use feature not mesh?
+	    //.datum(topojson.mesh(data,data.objects.City_Council_Districts), (a,b)=>(a!=b)) // had to use feature not mesh?
+	    	.attr("d", path(topojson.mesh(data, data.objects.City_Council_Districts, function(a, b) { return a !== b; })));
+		//.attr("d", path)
+	    	//.style("fill", 'blue')
+		//.style('stroke', 'red');
 
 	}
     
