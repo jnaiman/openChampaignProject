@@ -34,7 +34,7 @@ class Map4CustomD3Component extends D3Component {
 //	var path = d3.geoPath();
 	
 	
-	d3.json("https://raw.githubusercontent.com/jnaiman/openChampaignProject/master/data/map_data/City_Council_Districts_topojson.json", function(error, us) {
+	d3.json("https://raw.githubusercontent.com/jnaiman/openChampaignProject/master/data/map_data/City_Council_Districts_topojson_s.json", function(error, us) {
 	    if (error) throw error;
 
 	    //console.log(us.objects.City_Council_Districts)

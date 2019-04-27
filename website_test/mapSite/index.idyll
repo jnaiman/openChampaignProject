@@ -22,10 +22,11 @@ To get this to work I had to include the topojson-client in the requirements of 
 
 This is following the docs for [v4 d3.js maps](https://bl.ocks.org/mbostock/4090848).
 
-[Map2CustomD3Component className:"d3-component" /] 
+// [Map2CustomD3Component className:"d3-component" /] // */
 
 New map 4.
 
-[Map4CustomD3Component className:"d3-component" /]
+// [Map5CustomD3Component className:"d3-component" /] // */
 
+[Map6CustomD3Component className:"d3-component" /]
 

@@ -2,11 +2,15 @@ brew install gdal
 Shape file to geoJSON:
 //ogr2ogr -f geoJSON City_Council_Districts.json City_Council_Districts.shp
 
-ogr2ogr -t_srs EPSG:4326 -f GeoJSON -simplify 0.00008 City_Council_Districts.json City_Council_Districts.shp
+//ogr2ogr -t_srs EPSG:4326 -f GeoJSON -simplify 0.00008 City_Council_Districts.json City_Council_Districts.shp
+ogr2ogr -t_srs WGS84 -f GeoJSON -simplify 0.00008 City_Council_Districts.json City_Council_Districts.shp
+
+
 
 
 Install topojson:
 sudo npm install topojson -g
 
 Geojson to topojson:
-geo2topo -q 1e4 -s -o City_Council_Districts_topojson_s.json City_Council_Districts.json
+//geo2topo -q 1e4 -s -o City_Council_Districts_topojson_s.json City_Council_Districts.json
+geo2topo -o City_Council_Districts_topojson.json City_Council_Districts.json
