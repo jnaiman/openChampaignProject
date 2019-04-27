@@ -62,7 +62,7 @@ class Map6CustomD3Component extends D3Component {
 	var path = d3.geoPath();
 		
 	var projection = d3.geoEquirectangular()
-            .scale(2000)
+            .scale(100000)
             .translate( [width / 2, height / 2])
 	    .center([-88.33330288929228,40.061894153130176]);
 	
@@ -86,7 +86,7 @@ class Map6CustomD3Component extends D3Component {
 		.data(data.objects.City_Council_Districts)
 		.enter().append("path")
 		.attr("d", path)
-		.style("fill", function(d) { return color(corgPopulationById[d.id]); })
+		.style("fill", function(d) { 'black'; })
 		.style('stroke', 'white')
 		.style('stroke-width', 1.5)
 		.style("opacity",0.8)
@@ -111,8 +111,8 @@ class Map6CustomD3Component extends D3Component {
 	    
 	    svg.append("path")
 	    //.datum(topojson.mesh(data.objects.City_Council_Districts, function(a, b) { return a !== b; }))
-	        //.datum(topojson.mesh(data, data.objects.City_Council_Districts, (a, b) => a !== b))
-	        .datum(topojson.mesh(data.objects.City_Council_Districts))
+	        .datum(topojson.mesh(data, data.objects.City_Council_Districts, (a, b) => a !== b))
+	        //.datum(topojson.mesh(data.objects.City_Council_Districts))
 		.attr("d", path);
 	}
     
