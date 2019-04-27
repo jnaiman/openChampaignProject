@@ -13,4 +13,8 @@ sudo npm install topojson -g
 
 Geojson to topojson:
 //geo2topo -q 1e4 -s -o City_Council_Districts_topojson_s.json City_Council_Districts.json
+
+
+// NOTE!!! Before this last step you can just download the geojson from the champaign website!
+
 geo2topo -o City_Council_Districts_topojson.json City_Council_Districts.json

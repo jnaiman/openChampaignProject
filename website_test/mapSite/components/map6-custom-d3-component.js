@@ -27,12 +27,12 @@ class Map6CustomD3Component extends D3Component {
 
 
 	// Set tooltips
-	//var tip = d3tip() // JPN: had to change here d3.tip -> d3tip
-        //    .attr('class', 'd3-tip')
-        //    .offset([-10, 0])
-        //    .html(function(d) {
-//		return "<strong>Country: </strong><span class='details'>" + d.properties.name + "<br></span>" + "<strong>Corgis Born: </strong><span class='details'>" + format(d.population) +"</span>";
-//            })
+	var tip = d3tip() // JPN: had to change here d3.tip -> d3tip
+            .attr('class', 'd3-tip')
+            .offset([-10, 0])
+            .html(function(d) {
+		return "<strong>Country: </strong><span class='details'>" + d.properties.name + "<br></span>" + "<strong>Corgis Born: </strong><span class='details'>" + format(d.population) +"</span>";
+            })
 	
 	
 	var color = d3.scaleThreshold()
@@ -59,19 +59,19 @@ class Map6CustomD3Component extends D3Component {
 		   ]);
 
 
-	//var path = d3.geoPath();
-		
+	// center on champaign and zoom in
 	var projection = d3.geoEquirectangular()
             .scale(180000)
             .translate( [width / 4, height*3/4])
 	    .center([-88.33330288929228,40.061894153130176]);
 	var path = d3.geoPath().projection(projection);
-	
-	//svg.call(tip);
+
+	// to have a tool tip
+	svg.call(tip);
 
 	d3.queue() // JPN: had to change queue -> d3.queue()
 	//.defer(d3.json, "https://raw.githubusercontent.com/jdamiani27/Data-Visualization-and-D3/master/lesson4/world_countries.json")
-	    .defer(d3.json,"https://raw.githubusercontent.com/jnaiman/openChampaignProject/master/data/map_data/City_Council_Districts_topojson_2.json")
+	    .defer(d3.json,"https://raw.githubusercontent.com/jnaiman/openChampaignProject/master/data/map_data/City_Council_Districts_topojson_3.json")
 	    .defer(d3.json, "https://raw.githubusercontent.com/jnaiman/corgWebsiteBuild/master/data/corgiData_countries.json")
 	    .await(ready);
 
@@ -116,8 +116,9 @@ class Map6CustomD3Component extends D3Component {
 	    svg.append("path")
 		//.datum(topojson.mesh(data.objects.City_Council_Districts, function(a, b) { return a !== b; }))
 	        //.datum(topojson.mesh(data, data.objects.City_Council_Districts, (a, b) => a !== b))
-	        .datum(topojson.mesh(data,data.objects.City_Council_Districts))
+	        .datum(topojson.feature(data,data.objects.City_Council_Districts)) // had to use feature not mesh?
 		.attr("d", path)
+		//.attr('class','mesh')
 	    	.style("fill", 'blue')
 		.style('stroke', 'red');
 
