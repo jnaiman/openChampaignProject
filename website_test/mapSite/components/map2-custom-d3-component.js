@@ -27,7 +27,9 @@ class Map2CustomD3Component extends D3Component {
 
 
 	var path = d3.geoPath();
-	
+	//var projection = d3.geoAlbers();
+	//var path = d3.geoPath().projection(projection);
+
 	
 	d3.json("https://d3js.org/us-10m.v1.json", function(error, us) {
 	    if (error) throw error;

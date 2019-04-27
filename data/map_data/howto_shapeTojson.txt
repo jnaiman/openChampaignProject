@@ -9,4 +9,4 @@ Install topojson:
 sudo npm install topojson -g
 
 Geojson to topojson:
-geo2topo -q 1e4 -s -o City_Council_Districts_topojson.json City_Council_Districts.json
+geo2topo -q 1e4 -s -o City_Council_Districts_topojson_s.json City_Council_Districts.json

@@ -49,7 +49,7 @@ class Map4CustomD3Component extends D3Component {
 	    //console.log(center, scale, offset);
 	    
 	    // create the path
-	    var path = d3.geoPath().projection(projection);
+	    //var path = d3.geoPath().projection(projection);
 
 	    //console.log('here');
 	    //console.log(us.bbox);
@@ -73,8 +73,8 @@ class Map4CustomD3Component extends D3Component {
 	//	.scale(1).translate([-81,40]);
 	    //  var path = path.projection(projection);
 
-	    var projection = d3.geoAlbers();
-	    var path = d3.geoPath().projection(projection);
+	    //var projection = d3.geoAlbers();
+	    var path = d3.geoPath();//.projection(projection);
 	    
 	    svg.append("g")
 		.attr("class", "states")
