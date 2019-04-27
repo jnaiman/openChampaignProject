@@ -71,7 +71,7 @@ class Map6CustomD3Component extends D3Component {
 
 	d3.queue() // JPN: had to change queue -> d3.queue()
 	//.defer(d3.json, "https://raw.githubusercontent.com/jdamiani27/Data-Visualization-and-D3/master/lesson4/world_countries.json")
-	    .defer(d3.json,"https://raw.githubusercontent.com/jnaiman/openChampaignProject/master/data/map_data/City_Council_Districts_topojson.json")
+	    .defer(d3.json,"https://raw.githubusercontent.com/jnaiman/openChampaignProject/master/data/map_data/City_Council_Districts_mapshaper.json")
 	    .defer(d3.json, "https://raw.githubusercontent.com/jnaiman/corgWebsiteBuild/master/data/corgiData_countries.json")
 	    .await(ready);
 
@@ -84,15 +84,15 @@ class Map6CustomD3Component extends D3Component {
 	    //data.objects.City_Council_Districts.forEach( function(d) {console.log(d);} );
 	    
 	    svg.append("g")
-		.attr("class", "countries")
+		//.attr("class", "countries")
 		.selectAll("path")
 		.data(data.objects.City_Council_Districts)
 		.enter().append("path")
 		.attr("d", path)
-		.style("fill", function(d) { 'none'; })
+		.style("fill", 'black')
 		.style('stroke', 'black')
-		.style('stroke-width', 1.5)
-		.style("opacity",0.8);
+		//.style('stroke-width', 1.5)
+		//.style("opacity",0.8);
 	
 	    // tooltips
 	//	.style("stroke","white")
@@ -115,8 +115,8 @@ class Map6CustomD3Component extends D3Component {
 	    
 	    svg.append("path")
 		//.datum(topojson.mesh(data.objects.City_Council_Districts, function(a, b) { return a !== b; }))
-	        .datum(topojson.mesh(data, data.objects.City_Council_Districts, (a, b) => a !== b))
-	        //.datum(topojson.mesh(data.objects.City_Council_Districts))
+	        //.datum(topojson.mesh(data, data.objects.City_Council_Districts, (a, b) => a !== b))
+	        .datum(topojson.mesh(data,data.objects.City_Council_Districts))
 		.attr("d", path);
 	}
     
