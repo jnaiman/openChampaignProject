@@ -62,8 +62,8 @@ class Map6CustomD3Component extends D3Component {
 	//var path = d3.geoPath();
 		
 	var projection = d3.geoEquirectangular()
-            .scale(100000)
-            .translate( [width / 2, height / 2])
+            .scale(180000)
+            .translate( [width / 4, height*3/4])
 	    .center([-88.33330288929228,40.061894153130176]);
 	var path = d3.geoPath().projection(projection);
 	
@@ -71,7 +71,7 @@ class Map6CustomD3Component extends D3Component {
 
 	d3.queue() // JPN: had to change queue -> d3.queue()
 	//.defer(d3.json, "https://raw.githubusercontent.com/jdamiani27/Data-Visualization-and-D3/master/lesson4/world_countries.json")
-	    .defer(d3.json,"https://raw.githubusercontent.com/jnaiman/openChampaignProject/master/data/map_data/City_Council_Districts_mapshaper.json")
+	    .defer(d3.json,"https://raw.githubusercontent.com/jnaiman/openChampaignProject/master/data/map_data/City_Council_Districts_topojson_2.json")
 	    .defer(d3.json, "https://raw.githubusercontent.com/jnaiman/corgWebsiteBuild/master/data/corgiData_countries.json")
 	    .await(ready);
 
@@ -89,8 +89,8 @@ class Map6CustomD3Component extends D3Component {
 		.data(data.objects.City_Council_Districts)
 		.enter().append("path")
 		.attr("d", path)
-		.style("fill", 'black')
-		.style('stroke', 'black')
+		//.style("fill", 'red')
+		//.style('stroke', 'red');
 		//.style('stroke-width', 1.5)
 		//.style("opacity",0.8);
 	
@@ -117,7 +117,10 @@ class Map6CustomD3Component extends D3Component {
 		//.datum(topojson.mesh(data.objects.City_Council_Districts, function(a, b) { return a !== b; }))
 	        //.datum(topojson.mesh(data, data.objects.City_Council_Districts, (a, b) => a !== b))
 	        .datum(topojson.mesh(data,data.objects.City_Council_Districts))
-		.attr("d", path);
+		.attr("d", path)
+	    	.style("fill", 'blue')
+		.style('stroke', 'red');
+
 	}
     
     }
