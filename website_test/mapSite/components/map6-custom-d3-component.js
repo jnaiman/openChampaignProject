@@ -27,12 +27,12 @@ class Map6CustomD3Component extends D3Component {
 
 
 	// Set tooltips
-	var tip = d3tip() // JPN: had to change here d3.tip -> d3tip
-            .attr('class', 'd3-tip')
-            .offset([-10, 0])
-            .html(function(d) {
-		return "<strong>Country: </strong><span class='details'>" + d.properties.name + "<br></span>" + "<strong>Corgis Born: </strong><span class='details'>" + format(d.population) +"</span>";
-            })
+	//var tip = d3tip() // JPN: had to change here d3.tip -> d3tip
+        //    .attr('class', 'd3-tip')
+        //    .offset([-10, 0])
+        //    .html(function(d) {
+//		return "<strong>Country: </strong><span class='details'>" + d.properties.name + "<br></span>" + "<strong>Corgis Born: </strong><span class='details'>" + format(d.population) +"</span>";
+//            })
 	
 	
 	var color = d3.scaleThreshold()
@@ -59,16 +59,15 @@ class Map6CustomD3Component extends D3Component {
 		   ]);
 
 
-	var path = d3.geoPath();
+	//var path = d3.geoPath();
 		
 	var projection = d3.geoEquirectangular()
             .scale(100000)
             .translate( [width / 2, height / 2])
 	    .center([-88.33330288929228,40.061894153130176]);
-	
 	var path = d3.geoPath().projection(projection);
 	
-	svg.call(tip);
+	//svg.call(tip);
 
 	d3.queue() // JPN: had to change queue -> d3.queue()
 	//.defer(d3.json, "https://raw.githubusercontent.com/jdamiani27/Data-Visualization-and-D3/master/lesson4/world_countries.json")
@@ -79,6 +78,10 @@ class Map6CustomD3Component extends D3Component {
 	function ready(error, data, population) {
 	    if (error) throw error;
 	    var corgPopulationById = {};
+
+	    // neg to pos
+	    //data.objects.City_Council_Districts.forEach( function(d) { d; });
+	    //data.objects.City_Council_Districts.forEach( function(d) {console.log(d);} );
 	    
 	    svg.append("g")
 		.attr("class", "countries")
@@ -86,31 +89,32 @@ class Map6CustomD3Component extends D3Component {
 		.data(data.objects.City_Council_Districts)
 		.enter().append("path")
 		.attr("d", path)
-		.style("fill", function(d) { 'black'; })
-		.style('stroke', 'white')
+		.style("fill", function(d) { 'none'; })
+		.style('stroke', 'black')
 		.style('stroke-width', 1.5)
-		.style("opacity",0.8)
+		.style("opacity",0.8);
+	
 	    // tooltips
-		.style("stroke","white")
-		.style('stroke-width', 0.3)
-		.on('mouseover',function(d){
-		    tip.show(d, this); 
-		    d3.select(this)
-			.style("opacity", 1)
-			.style("stroke","white")
-			.style("stroke-width",3);
-		})
-		.on('mouseout', function(d){
-		    tip.hide(d);
-		    
-		    d3.select(this)
-			.style("opacity", 0.8)
-			.style("stroke","white")
-			.style("stroke-width",0.3);
-		});
+	//	.style("stroke","white")
+	//	.style('stroke-width', 0.3)
+	//	.on('mouseover',function(d){
+	//	    tip.show(d, this); 
+	//	    d3.select(this)
+	//		.style("opacity", 1)
+	//		.style("stroke","white")
+	//		.style("stroke-width",3);
+	//	})
+	//	.on('mouseout', function(d){
+	//	    tip.hide(d);
+	//	    
+	//	    d3.select(this)
+	//		.style("opacity", 0.8)
+	//		.style("stroke","black")
+	//		.style("stroke-width",0.3);
+	//	});
 	    
 	    svg.append("path")
-	    //.datum(topojson.mesh(data.objects.City_Council_Districts, function(a, b) { return a !== b; }))
+		//.datum(topojson.mesh(data.objects.City_Council_Districts, function(a, b) { return a !== b; }))
 	        .datum(topojson.mesh(data, data.objects.City_Council_Districts, (a, b) => a !== b))
 	        //.datum(topojson.mesh(data.objects.City_Council_Districts))
 		.attr("d", path);
