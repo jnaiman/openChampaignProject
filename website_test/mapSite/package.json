@@ -22,8 +22,8 @@
     "vega-lite": "^2.6.0",
     "dot-prop": ">=5.1.1",
     "elliptic": ">=6.5.3",
-    "lodash": ">=4.17.19",
-    "minimist": ">=0.2.1"
+    "lodash": ">=4.17.20",
+    "minimist": ">=1.2.3"
   },
   "devDependencies": {
     "gh-pages": "^0.12.0"
