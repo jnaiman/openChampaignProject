@@ -9,7 +9,7 @@
     "authorView": false
   },
   "dependencies": {
-    "acorn": "^6.1.1",
+    "acorn": "^6.4.1",
     "d3": "^4.0.0",
     "d3-geo": "^1.11.3",
     "d3-tip": "^0.9.1",
