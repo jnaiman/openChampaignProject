@@ -18,7 +18,7 @@
     "idyll-vega-lite": "^1.0.2",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
-    "vega": "^3.3.1",
+    "vega": "^5.17.3",
     "vega-lite": "^2.6.0",
     "dot-prop": ">=5.1.1",
     "elliptic": ">=6.5.3",
